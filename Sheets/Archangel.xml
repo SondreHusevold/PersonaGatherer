@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Archangel</name>
+    <level>11</level>
+    <arcana>Justice</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>8</strength>
+    <magic>9</magic>
+    <endurance>7</endurance>
+    <agility>7</agility>
+    <luck>9</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>-</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Darkness</weakness>
+  </elemental_properties>
+  <information>In the nine orders of angels in Christian teachings, archangels are among the eighth, making them second in the third hierarchy. Archangels are one of the few bodies of angels that contact those on the material plane directly and are the ministers and messengers between God and mankind. Some of the most famous archangels include Michael and Gabriel who both appear in the Bible, although only Michael was named expressly as an archangel. The Jewish name for it is rav-mal'ákh.</information>
+  <skilltree>
+    <skill>
+      <name>Hama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Double Fangs</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Patra</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Media</name>
+      <learned>12</learned>
+    </skill>
+    <skill>
+      <name>Muzzle Shot</name>
+      <learned>13</learned>
+    </skill>
+    <skill>
+      <name>Sharp Student</name>
+      <learned>14</learned>
+    </skill>
+    <skill>
+      <name>Survive Dark</name>
+      <learned>15</learned>
+    </skill>
+  </skilltree>
+</persona>
+

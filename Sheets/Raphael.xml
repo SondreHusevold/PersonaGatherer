@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Raphael</name>
+    <level>53</level>
+    <arcana>Lovers</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>32</strength>
+    <magic>38</magic>
+    <endurance>24</endurance>
+    <agility>33</agility>
+    <luck>39</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>-</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>Ice</reflect>
+    <weakness>Darkness</weakness>
+  </elemental_properties>
+  <information>Within the hierarchy of angels from Christian mythology, Raphael is one of the four Seraphim, the highest rank. His name means "One that heals." He is said to be the guardian of the Tree of Life, opposite the Tree of Knowledge in the Garden of Eden. Most of Raphael's exploits take place in the Apocrypha, where he has roles as imprisoner of Azazel (an angel that gets exiled from Heaven for having sex with human females) and guide of Sheol, the Hebrew underworld.</information>
+  <skilltree>
+    <skill>
+      <name>Diarahan</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Megidola</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Masukukaja</name>
+      <learned>55</learned>
+    </skill>
+    <skill>
+      <name>Amrita</name>
+      <learned>56</learned>
+    </skill>
+    <skill>
+      <name>Null Dizzy</name>
+      <learned>57</learned>
+    </skill>
+    <skill>
+      <name>Mediarahan</name>
+      <learned>59</learned>
+    </skill>
+  </skilltree>
+</persona>
+

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Isis</name>
+    <level>79</level>
+    <arcana>Empress</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>52</strength>
+    <magic>48</magic>
+    <endurance>42</endurance>
+    <agility>48</agility>
+    <luck>54</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Ice</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>Isis was a goddess in Ancient Egyptian religious beliefs, whose worship spread throughout the Greco-Roman world. She was worshiped as the ideal mother and wife, patron of nature and magic; friend of slaves, sinners, artisans, and the downtrodden, as well as listening to the prayers of the wealthy, maidens, aristocrats and rulers.</information>
+  <skilltree>
+    <skill>
+      <name>Mediarahan</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Bufudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tetrakarn</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Cool Breeze</name>
+      <learned>80</learned>
+    </skill>
+    <skill>
+      <name>Absorb Ice</name>
+      <learned>82</learned>
+    </skill>
+    <skill>
+      <name>Mabufudyne</name>
+      <learned>83</learned>
+    </skill>
+    <skill>
+      <name>Salvation</name>
+      <learned>85</learned>
+    </skill>
+    <skill>
+      <name>Null Elec</name>
+      <learned>86</learned>
+    </skill>
+  </skilltree>
+</persona>
+

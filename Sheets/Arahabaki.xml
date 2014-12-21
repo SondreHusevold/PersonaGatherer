@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Arahabaki</name>
+    <level>73</level>
+    <arcana>Hermit</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>50</strength>
+    <magic>55</magic>
+    <endurance>62</endurance>
+    <agility>37</agility>
+    <luck>25</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Physical</inherit>
+    <resist>-</resist>
+    <block>Light, Dark</block>
+    <absorb>-</absorb>
+    <reflect>Physical</reflect>
+    <weakness>Fire, Ice</weakness>
+  </elemental_properties>
+  <information>An ancient Japanese aboriginal god since the Kofun period. The Momunofu were his servants and before his religion was submerged by the Shinto pantheon, Arahabaki was worshipped in Japan's North-Eastern regions as a god of travelers. He was also worshipped by Nagasunehiko, an enemy of Emperor Jimmu, and so by the Emperor's orders Arahabaki became a symbol of treachery, rebellion, and heresy and his worship was forbidden for a long period afterwards. However, this is only mentioned in the Tsugaru Soto-Sangunshi (which was said to have been compiled in the 1970s) which has been concluded to be a false document.</information>
+  <skilltree>
+    <skill>
+      <name>Vicious Strike</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Auto-Maraku</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Null Fear</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Alertness</name>
+      <learned>74</learned>
+    </skill>
+    <skill>
+      <name>Tetrakarn</name>
+      <learned>76</learned>
+    </skill>
+    <skill>
+      <name>Repel Physical</name>
+      <learned>80</learned>
+    </skill>
+  </skilltree>
+</persona>
+

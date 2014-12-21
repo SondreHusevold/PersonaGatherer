@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Orobas</name>
+    <level>8</level>
+    <arcana>Magician</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>4</strength>
+    <magic>10</magic>
+    <endurance>6</endurance>
+    <agility>7</agility>
+    <luck>4</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>Fire</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>According to the Lesser Key of Solomon, Orobas is the 55th spirit and a prince of Hell who could give conjurers perfect information about the past, present, or future, bestow honors, reconcile them with foes, and protect them from being tempted by demons. He would never deceive anyone. He commands 20 legions of spirits (26 according to Harley 6483, considered the least reliable of the manuscripts).</information>
+  <skilltree>
+    <skill>
+      <name>Agi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Hysterical Slap</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dekaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dodge Ice</name>
+      <learned>10</learned>
+    </skill>
+    <skill>
+      <name>Resist Dizzy</name>
+      <learned>11</learned>
+    </skill>
+    <skill>
+      <name>Sharp Student</name>
+      <learned>12</learned>
+    </skill>
+  </skilltree>
+</persona>
+

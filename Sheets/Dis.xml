@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Dis</name>
+    <level>39</level>
+    <arcana>Magician</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>25</strength>
+    <magic>31</magic>
+    <endurance>24</endurance>
+    <agility>26</agility>
+    <luck>21</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Fire</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>Dis is a goddess of fate from Norse mythology.</information>
+  <skilltree>
+    <skill>
+      <name>Maragion</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Diarama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dekunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dodge Ice</name>
+      <learned>41</learned>
+    </skill>
+    <skill>
+      <name>Masukunda</name>
+      <learned>42</learned>
+    </skill>
+    <skill>
+      <name>Agidyne</name>
+      <learned>43</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>44</learned>
+    </skill>
+  </skilltree>
+</persona>
+

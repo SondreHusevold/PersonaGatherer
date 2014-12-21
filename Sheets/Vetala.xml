@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Vetala</name>
+    <level>19</level>
+    <arcana>Devil</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>17</strength>
+    <magic>10</magic>
+    <endurance>14</endurance>
+    <agility>12</agility>
+    <luck>11</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ailment</inherit>
+    <resist>Wind, Darkness</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>In Hindu folklore, the vetala is an evil spirit who haunts cemeteries and takes demonic possession of corpses. They make their displeasure known by troubling humans. They can drive people mad, kill children, and cause miscarriages.</information>
+  <skilltree>
+    <skill>
+      <name>Foolish Whisper</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Evil Touch</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Life Drain</name>
+      <learned>20</learned>
+    </skill>
+    <skill>
+      <name>Foul Breath</name>
+      <learned>21</learned>
+    </skill>
+    <skill>
+      <name>Brain Shake</name>
+      <learned>22</learned>
+    </skill>
+    <skill>
+      <name>Ghastly Wail</name>
+      <learned>23</learned>
+    </skill>
+    <skill>
+      <name>Fear Boost</name>
+      <learned>24</learned>
+    </skill>
+  </skilltree>
+</persona>
+

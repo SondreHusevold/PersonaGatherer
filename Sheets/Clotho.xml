@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Clotho</name>
+    <level>44</level>
+    <arcana>Fortune</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>22</strength>
+    <magic>31</magic>
+    <endurance>28</endurance>
+    <agility>26</agility>
+    <luck>32</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Wind</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>Clotho is one of the three Moirae Sisters, and is derived from the Greek personification of fate. The youngest, Clotho spins the thread of life.</information>
+  <skilltree>
+    <skill>
+      <name>Magarula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mutudi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Navas Nebula</name>
+      <learned>45</learned>
+    </skill>
+    <skill>
+      <name>Makarakarn</name>
+      <learned>47</learned>
+    </skill>
+    <skill>
+      <name>Wind Boost</name>
+      <learned>48</learned>
+    </skill>
+    <skill>
+      <name>Garudyne</name>
+      <learned>49</learned>
+    </skill>
+    <skill>
+      <name>Null Enervate</name>
+      <learned>50</learned>
+    </skill>
+  </skilltree>
+</persona>
+

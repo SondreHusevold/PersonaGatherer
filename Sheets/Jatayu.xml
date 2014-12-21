@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Jatayu</name>
+    <level>61</level>
+    <arcana>Sun</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>38</strength>
+    <magic>44</magic>
+    <endurance>35</endurance>
+    <agility>48</agility>
+    <luck>25</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Wind</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>Jatayu is a valiant bird in the legends that depicted it. In the Hindu epic Ramayana, Jatayu is an old friend of Rama. It attempted to rescue Rama's wife Sita after she was kidnapped by Ravana, the devil-king. A fierce battle ensued, but Ravana managed to defeat Jatayu by slashing its wings. In a Malay literature, Hikayat Merong Mahawangsa, Jatayu is the nephew of the giant bird Garuda. It was summoned by King Merong Mahawangsa, a friend of the prince of Rome, to rescue the prince's betrothed, a Chinese princess who was kidnapped by Garuda. Despite its determination, Garuda managed to overpower Jatayu.</information>
+  <skilltree>
+    <skill>
+      <name>Garudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Null Confuse</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Amrita</name>
+      <learned>62</learned>
+    </skill>
+    <skill>
+      <name>Growth 3</name>
+      <learned>64</learned>
+    </skill>
+    <skill>
+      <name>Repel Elec</name>
+      <learned>65</learned>
+    </skill>
+    <skill>
+      <name>Magarudyne</name>
+      <learned>66</learned>
+    </skill>
+  </skilltree>
+</persona>
+

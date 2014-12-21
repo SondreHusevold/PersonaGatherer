@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Satan</name>
+    <level>76</level>
+    <arcana>Judgement</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>45</strength>
+    <magic>60</magic>
+    <endurance>47</endurance>
+    <agility>40</agility>
+    <luck>43</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Almighty</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Dark/Fire</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>Satan is a prominent figure in the Abrahamic religions, playing various roles in their literature. He may either be depicted as a rebel to the will of God, or as one who tempts mankind to commit sin to show God that mankind can easily be led astray from Him. In Judaism, particularly in the Book of Job and the Kabbalah, Satan is even able to take control of the life of a person in the stead of God, though only to the limited extent that God allows. Satan would appear to those who are sinful, playing into their hearts and towing them into despair. In Christian literature other than the Bible, when God commanded the angels to bow to the first human Adam, Satan (then an angel called Lucifer or Helel) rallied other angels against this command with the belief that angels are above all other creations. He and other "fallen angels" fought against the forces of God and were utterly defeated; as a result, Satan was cast down into hell.</information>
+  <skilltree>
+    <skill>
+      <name>Megidolaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 3</name>
+      <learned>77</learned>
+    </skill>
+    <skill>
+      <name>Invigorate 3</name>
+      <learned>78</learned>
+    </skill>
+    <skill>
+      <name>Endure Light</name>
+      <learned>80</learned>
+    </skill>
+    <skill>
+      <name>Black Viper</name>
+      <learned>81</learned>
+    </skill>
+    <skill>
+      <name>Null Wind</name>
+      <learned>82</learned>
+    </skill>
+  </skilltree>
+</persona>
+

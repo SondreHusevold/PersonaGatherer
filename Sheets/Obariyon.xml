@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Obariyon</name>
+    <level>13</level>
+    <arcana>Fool</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>11</strength>
+    <magic>6</magic>
+    <endurance>11</endurance>
+    <agility>9</agility>
+    <luck>9</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Phys</inherit>
+    <resist>Phys, Fire</resist>
+    <block>None</block>
+    <absorb>None</absorb>
+    <reflect>None</reflect>
+    <weakness>None</weakness>
+  </elemental_properties>
+  <information>"A ghost who appears at night on a bushy path to jump on the backs of passersby. Once on, he won’t get off easily, but some believe he will transform into money if taken back to one’s home."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Sonic Punch</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tarukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dekaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Muzzle Shot</name>
+      <learned>14</learned>
+    </skill>
+    <skill>
+      <name>Silence Boost</name>
+      <learned>15</learned>
+    </skill>
+    <skill>
+      <name>Resist Physical</name>
+      <learned>17</learned>
+    </skill>
+    <skill>
+      <name>Single Shot</name>
+      <learned>18</learned>
+    </skill>
+  </skilltree>
+</persona>
+

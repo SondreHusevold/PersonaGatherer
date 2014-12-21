@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Lucifer</name>
+    <level>87</level>
+    <arcana>Star</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>56</strength>
+    <magic>57</magic>
+    <endurance>56</endurance>
+    <agility>49</agility>
+    <luck>50</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Almighty</inherit>
+    <resist>Physical</resist>
+    <block>Fire/Light/Dark</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>Lucifer (Hebrew — הילל, Helel) is a prominent figure in the various Religions, with his most infamous act being rebelling against God and subsequently falling from grace. The name Lucifer is derived from earlier Latin proses and poetry; lux, lucis, "light", and fero, ferre, "to bear, bring", symbolizing his role as the "Morning Star" and the strongest Seraph, the highest ranked angel serving God prior his fall from grace.</information>
+  <skilltree>
+    <skill>
+      <name>Megidolaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>God's Hand</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Salvation</name>
+      <learned>88</learned>
+    </skill>
+    <skill>
+      <name>Insta-Heal</name>
+      <learned>90</learned>
+    </skill>
+    <skill>
+      <name>Repel Wind</name>
+      <learned>91</learned>
+    </skill>
+    <skill>
+      <name>Arms Master</name>
+      <learned>92</learned>
+    </skill>
+    <skill>
+      <name>Morning Star</name>
+      <learned>94</learned>
+    </skill>
+  </skilltree>
+</persona>
+

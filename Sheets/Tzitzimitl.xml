@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Tzitzimitl</name>
+    <level>70</level>
+    <arcana>Priestess</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>46</strength>
+    <magic>56</magic>
+    <endurance>41</endurance>
+    <agility>39</agility>
+    <luck>35</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>None</resist>
+    <block>Darkness</block>
+    <absorb>None</absorb>
+    <reflect>Electricity</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>In Aztec mythology, a tzitzimitl is a deity associated with stars. They were depicted as skeletal female figures wearing skirts often with skull and crossbone designs.</information>
+  <skilltree>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Virus Wave</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mustard Bomb</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Silence Boost</name>
+      <learned>71</learned>
+    </skill>
+    <skill>
+      <name>Dekaja</name>
+      <learned>72</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 3</name>
+      <learned>73</learned>
+    </skill>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>76</learned>
+    </skill>
+    <skill>
+      <name>Repel Elec</name>
+      <learned>77</learned>
+    </skill>
+  </skilltree>
+</persona>
+

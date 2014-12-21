@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Beelzebub</name>
+    <level>77</level>
+    <arcana>Moon</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>48</strength>
+    <magic>60</magic>
+    <endurance>49</endurance>
+    <agility>40</agility>
+    <luck>41</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>Dark</block>
+    <absorb>Ice</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>The Lord of the Flies, Beelzebub was originally a Philistine deity named Baal Zebub and was later explained to be one of the seven princes of Hell in Christian sources. He is also considered to be synonymous with Satan. In Judaism, he was a mockery of the religions surrounding them that worshipped Baal, and in Rabbinical texts the name ba'al zebul was a mockery of the religion of Baal. Some scholars believe the name ba'al zebul ("Lord of the Flies") was a way of referring to Baal as a pile of dung and his followers as flies.</information>
+  <skilltree>
+    <skill>
+      <name>Mabufudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mamudoon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Old One</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tentarafoo</name>
+      <learned>78</learned>
+    </skill>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>79</learned>
+    </skill>
+    <skill>
+      <name>Mudo Boost</name>
+      <learned>80</learned>
+    </skill>
+    <skill>
+      <name>Stagnant Air</name>
+      <learned>82</learned>
+    </skill>
+  </skilltree>
+</persona>
+

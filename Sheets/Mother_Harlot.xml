@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Mother Harlot</name>
+    <level>60</level>
+    <arcana>Empress</arcana>
+    <alignment>Neutral Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>38</strength>
+    <magic>47</magic>
+    <endurance>37</endurance>
+    <agility>29</agility>
+    <luck>36</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>Ice</resist>
+    <block>Darkness</block>
+    <absorb>-</absorb>
+    <reflect>Electricity</reflect>
+    <weakness>Wind, Light</weakness>
+  </elemental_properties>
+  <information>Within the Book of Revelation, The Harlot is known as "Babylon the Great, Mother of Prostitutes and Abominations of the Earth," or "Whore of Babylon" for short.
+She appears as wearing a purple robe. The color purple was associated with the Roman Empire. Indeed the Harlot and her beast can be seen as an allegory of Rome, the Empire and the Emperor. The beast she rides has seven heads. In fact, Rome has seven hills, so the heads could reflect the ancient power of Rome, which traditionally was one of antiquity's most powerful empires. Alternatively, the heads of the beast could represent the seven great kingdoms of the ancient world and their rulers.</information>
+  <skilltree>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mamudoon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mudo Boost</name>
+      <learned>62</learned>
+    </skill>
+    <skill>
+      <name>Foolish Whisper</name>
+      <learned>63</learned>
+    </skill>
+    <skill>
+      <name>Resist Fire</name>
+      <learned>64</learned>
+    </skill>
+    <skill>
+      <name>Ailment Boost</name>
+      <learned>65</learned>
+    </skill>
+  </skilltree>
+</persona>
+

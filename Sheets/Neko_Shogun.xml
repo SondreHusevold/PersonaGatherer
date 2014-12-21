@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Neko Shogun</name>
+    <level>32</level>
+    <arcana>Star</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>26</strength>
+    <magic>20</magic>
+    <endurance>19</endurance>
+    <agility>23</agility>
+    <luck>15</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Support</inherit>
+    <resist>Physical</resist>
+    <block>Light, Dark</block>
+    <absorb>-</absorb>
+    <reflect>Electricity</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>"A prophetic Taoist god, originally known as Mao Shogun. Due to a  linguistic error involving the Chinese word for cat, his name was changed to Neko Shogun."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Zionga</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Elec Boost</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Black Spot</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mediarama</name>
+      <learned>34</learned>
+    </skill>
+    <skill>
+      <name>Matarukaja</name>
+      <learned>35</learned>
+    </skill>
+    <skill>
+      <name>Evade Wind</name>
+      <learned>36</learned>
+    </skill>
+    <skill>
+      <name>Divine Grace</name>
+      <learned>37</learned>
+    </skill>
+  </skilltree>
+</persona>
+

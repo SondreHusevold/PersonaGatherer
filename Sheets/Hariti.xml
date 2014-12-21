@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Hariti</name>
+    <level>59</level>
+    <arcana>Priestess</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>31</strength>
+    <magic>47</magic>
+    <endurance>33</endurance>
+    <agility>34</agility>
+    <luck>39</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>Wind</resist>
+    <block>Ice</block>
+    <absorb>None</absorb>
+    <reflect>None</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>A demoness originating from Pakistan, Hariti was originally an ogress who slew human children in her desperation to feed her hundreds of children. After the arrival of Buddhism, which came to Pakistan as a missionary religion, the legend of Hariti was given a new twist by Buddhist missionaries; being that, in order to put a stop to this way of feeding on the blood of Children, Gautama Buddha hid away one of Hariti's sons under a rice bowl, then pointed out to her that the suffering she was experiencing from losing one out of her hundreds of children could not be compared to that of the human mothers whose few children became her victims. Remorseful for her deeds, Hariti pledged to become the protector of childbirth and children and converted to Buddhism. From then on, she and her brood fed on pomegranates as a substitute for human flesh. This new image of her is what was incorporated into Buddhist lore, which because it came to comprise local Bactrian mythology, took on a new flavor before it spread from Northern &amp; Western Pakistan to China and the other far reaches of Asia such as Japan.</information>
+  <skilltree>
+    <skill>
+      <name>Diarahan</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Bufudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Marakukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mediarahan</name>
+      <learned>61</learned>
+    </skill>
+    <skill>
+      <name>Arrow Rain</name>
+      <learned>62</learned>
+    </skill>
+    <skill>
+      <name>Samarecarm</name>
+      <learned>64</learned>
+    </skill>
+  </skilltree>
+</persona>
+

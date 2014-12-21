@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Daisoujou</name>
+    <level>60</level>
+    <arcana>Hierophant</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>34</strength>
+    <magic>45</magic>
+    <endurance>40</endurance>
+    <agility>30</agility>
+    <luck>41</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>-</resist>
+    <block>Fire, Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Dark</weakness>
+  </elemental_properties>
+  <information>The design for the character seems to be based on the Buddhist mummies, Sokushinbutsu. These were monks who performed self-mummification by starving themselves for about three years. At the end of these three years, they were entombed alive with just enough room to sit cross-legged. A tube was placed in the ground, leading to the tomb for air. The monk had a bell with him and every day, someone would listen for the bell to make sure the monk was still alive. When the bell no longer rang, the air tube was removed and the tomb was completely sealed. A thousand days later, the body would be exhumed. If it was preserved, it was revered as a god.</information>
+  <skilltree>
+    <skill>
+      <name>Hamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Diarahan</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Makarakarn</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Agidyne</name>
+      <learned>62</learned>
+    </skill>
+    <skill>
+      <name>Endure Dark</name>
+      <learned>63</learned>
+    </skill>
+    <skill>
+      <name>Mahamaon</name>
+      <learned>64</learned>
+    </skill>
+    <skill>
+      <name>Hama Boost</name>
+      <learned>65</learned>
+    </skill>
+    <skill>
+      <name>Samsara</name>
+      <learned>67</learned>
+    </skill>
+  </skilltree>
+</persona>
+

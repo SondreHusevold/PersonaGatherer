@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Narasimha</name>
+    <level>47</level>
+    <arcana>Sun</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>29</strength>
+    <magic>27</magic>
+    <endurance>30</endurance>
+    <agility>35</agility>
+    <luck>27</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>Phys</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>"The 4th avatar of Vishnu. He took his form to defeat Hiranyakashipu, who can't be killed by human, animal or deva, and killed his foe at dusk, since he couldn't die at other times."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Hamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tempest Slash</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Counterstrike</name>
+      <learned>48</learned>
+    </skill>
+    <skill>
+      <name>Evade Wind</name>
+      <learned>49</learned>
+    </skill>
+    <skill>
+      <name>Mahamaon</name>
+      <learned>51</learned>
+    </skill>
+    <skill>
+      <name>Auto-Mataru</name>
+      <learned>53</learned>
+    </skill>
+  </skilltree>
+</persona>
+

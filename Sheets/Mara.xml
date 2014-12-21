@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Mara</name>
+    <level>62</level>
+    <arcana>Tower</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>44</strength>
+    <magic>35</magic>
+    <endurance>48</endurance>
+    <agility>36</agility>
+    <luck>30</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>Wind</resist>
+    <block>-</block>
+    <absorb>Fire</absorb>
+    <reflect>Dark</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>In Buddhist myth, Mara is also known as "The Evil One", a tempter, through the deceit of regarding the mundane and negative as alluring, and personifies unwholesome impulses, unskillfulness, and the "death" of the spiritual life.</information>
+  <skilltree>
+    <skill>
+      <name>Agidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Blight</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>63</learned>
+    </skill>
+    <skill>
+      <name>Makarakarn</name>
+      <learned>64</learned>
+    </skill>
+    <skill>
+      <name>Absorb Physical</name>
+      <learned>66</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>67</learned>
+    </skill>
+  </skilltree>
+</persona>
+

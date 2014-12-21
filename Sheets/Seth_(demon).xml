@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Seth (demon)</name>
+    <level>68</level>
+    <arcana>Moon</arcana>
+    <alignment>Lawful Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>46</strength>
+    <magic>51</magic>
+    <endurance>40</endurance>
+    <agility>39</agility>
+    <luck>35</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>None</resist>
+    <block>None</block>
+    <absorb>None</absorb>
+    <reflect>Ice</reflect>
+    <weakness>Elec</weakness>
+  </elemental_properties>
+  <information>Set, also spelled Seth or Sūtaḫ, is a deity from Egyptian mythology. Set is the deity of deserts, storms and chaos and served as one of the greatest deities in Egyptian myth. Set was married to the goddess Nephthys, who was also his sister. He killed and dismembered his brother Osiris out of jealousy. Isis, Osiris' wife and sister, reassembled him and Osiris became the ruler of the dead. Isis gave birth to Osiris's child, Horus, who became an enemy of Set. In earlier myths, Set fought Apep each night as Ra journeyed through the underworld. Set had been demonized to some extent, and the Greeks interpreted him to be a force of evil, which may be one of the reasons he is viewed as an antagonistic force in the original novels.</information>
+  <skilltree>
+    <skill>
+      <name>Magarudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Garudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Wind Break</name>
+      <learned>71</learned>
+    </skill>
+    <skill>
+      <name>Null Light</name>
+      <learned>72</learned>
+    </skill>
+    <skill>
+      <name>Wind Amp</name>
+      <learned>73</learned>
+    </skill>
+    <skill>
+      <name>Evade Elec</name>
+      <learned>74</learned>
+    </skill>
+  </skilltree>
+</persona>
+

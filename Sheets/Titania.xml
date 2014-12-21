@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Titania</name>
+    <level>26</level>
+    <arcana>Empress</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>12</strength>
+    <magic>23</magic>
+    <endurance>15</endurance>
+    <agility>19</agility>
+    <luck>16</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>Ice</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Titania is derived from the fairy queen character in William Shakespeare's play "A Midsummer Night's Dream", which in traditional folklore had no name. While considered beautiful and delicate, Shakespeare portrays her in the play as a very proud fairy, with powers that easily match those of her husband Oberon. Due to the massive success of the play and its status as a classic, Titania is used to name the fairy queen in many other works of fiction.</information>
+  <skilltree>
+    <skill>
+      <name>Diarama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Magaru</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Red Wall</name>
+      <learned>27</learned>
+    </skill>
+    <skill>
+      <name>Garula</name>
+      <learned>29</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 2</name>
+      <learned>31</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>32</learned>
+    </skill>
+  </skilltree>
+</persona>
+

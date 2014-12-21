@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Mothman</name>
+    <level>33</level>
+    <arcana>Hermit</arcana>
+    <alignment>Neutral Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>20</strength>
+    <magic>23</magic>
+    <endurance>17</endurance>
+    <agility>28</agility>
+    <luck>18</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>Fire</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Electricity</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>A cryptid of American origin. In the mid-1960s, there were some sightings of a great winged creature with massive reddish eyes. It is thought (outside of cryptozoology) that these might actually be misconstrued sandhill cranes or barn owls.</information>
+  <skilltree>
+    <skill>
+      <name>Zionga</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Valiant Dance</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Foul Breath</name>
+      <learned>35</learned>
+    </skill>
+    <skill>
+      <name>Elec Break</name>
+      <learned>36</learned>
+    </skill>
+    <skill>
+      <name>Mazionga</name>
+      <learned>37</learned>
+    </skill>
+    <skill>
+      <name>Rage Boost</name>
+      <learned>38</learned>
+    </skill>
+  </skilltree>
+</persona>
+

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Yomotsu-Ikusa</name>
+    <level>22</level>
+    <arcana>Hanged Man</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>17</strength>
+    <magic>16</magic>
+    <endurance>18</endurance>
+    <agility>12</agility>
+    <luck>10</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ailment</inherit>
+    <resist>Ice</resist>
+    <block>Darkness</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Yomotsu-Ikusa, or the army of Yomi, were beings which were led by the Yomotsu-Shikome to pursue Izanagi when he fled the underworld after seeing Izanami's face after her death.</information>
+  <skilltree>
+    <skill>
+      <name>Cell Breaker</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mabufu</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Enervate Boost</name>
+      <learned>24</learned>
+    </skill>
+    <skill>
+      <name>Foul Breath</name>
+      <learned>25</learned>
+    </skill>
+    <skill>
+      <name>Poison Mist</name>
+      <learned>26</learned>
+    </skill>
+    <skill>
+      <name>Poison Boost</name>
+      <learned>27</learned>
+    </skill>
+  </skilltree>
+</persona>
+

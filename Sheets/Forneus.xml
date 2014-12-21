@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Forneus</name>
+    <level>6</level>
+    <arcana>Hermit</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>4</strength>
+    <magic>5</magic>
+    <endurance>7</endurance>
+    <agility>6</agility>
+    <luck>3</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>Ice</resist>
+    <block>Dark</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>According to the writings in The Lesser Key of Solomon, Forneus is the thirtieth spirit listed in the Goetia. He is a Great Marquis of Hell with twenty-nine legions under his command, partly comprised of the order of Angels and Thrones, and appears as a sea monster. When summoned, he can make men well-versed in rhetoric, give him a good name, teach him foreign tongues, and make him trusted by friend and foe alike.</information>
+  <skilltree>
+    <skill>
+      <name>Bufu</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Skewer</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tarukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakunda</name>
+      <learned>7</learned>
+    </skill>
+    <skill>
+      <name>Poisma</name>
+      <learned>8</learned>
+    </skill>
+    <skill>
+      <name>Dodge Elec</name>
+      <learned>10</learned>
+    </skill>
+  </skilltree>
+</persona>
+

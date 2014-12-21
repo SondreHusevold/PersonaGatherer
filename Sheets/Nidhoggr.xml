@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Nidhoggr</name>
+    <level>55</level>
+    <arcana>Hermit</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>23</strength>
+    <magic>41</magic>
+    <endurance>35</endurance>
+    <agility>31</agility>
+    <luck>42</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Dark</inherit>
+    <resist>-</resist>
+    <block>Ice, Dark</block>
+    <absorb>Wind</absorb>
+    <reflect>-</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>Nidhoggr in Norse mythology is a creature that gnaws at the roots of the World Tree Yggdrasil. He lives beneath the roots of Yggdrasil and gnaws at them as they are the only thing that keeps it from the world. The squirrel Ratatoskr brings words of envy between Nidhoggr and the eagle Hresvelgr. The only person capable of controlling him is the Goddess Hel. Its existence is the portend of the Ragnarok that signals the end of all.</information>
+  <skilltree>
+    <skill>
+      <name>Mamudoon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Evil Smile</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Ghastly Wail</name>
+      <learned>57</learned>
+    </skill>
+    <skill>
+      <name>Bufudyne</name>
+      <learned>58</learned>
+    </skill>
+    <skill>
+      <name>Stagnant Air</name>
+      <learned>59</learned>
+    </skill>
+    <skill>
+      <name>Resist Physical</name>
+      <learned>60</learned>
+    </skill>
+    <skill>
+      <name>Ice Boost</name>
+      <learned>61</learned>
+    </skill>
+  </skilltree>
+</persona>
+

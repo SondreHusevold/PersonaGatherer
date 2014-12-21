@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Apsaras</name>
+    <level>4</level>
+    <arcana>Temperance</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>3</strength>
+    <magic>5</magic>
+    <endurance>3</endurance>
+    <agility>5</agility>
+    <luck>3</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Apsaras (Sanskrit: अप्सरा) also known as Vidhya Dhari, according to Hindu and Buddhist mythology, are spirits that appear in the form of young, beautiful women who have mastered the fine art of celestial dance. They are the wives of Indra's servants, Gandharvas, and are known to entertain the gods and fallen heroes, dancing in the divine palaces to music made by their husbands. They are frequently equated with the water-elemental nymphs and naiads of Ancient Greeks, and depictions of them can be seen in Cambodian and Balinese culture.</information>
+  <skilltree>
+    <skill>
+      <name>Patra</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dia</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakunda</name>
+      <learned>5</learned>
+    </skill>
+    <skill>
+      <name>Me Patra</name>
+      <learned>6</learned>
+    </skill>
+    <skill>
+      <name>Bufu</name>
+      <learned>7</learned>
+    </skill>
+  </skilltree>
+</persona>
+

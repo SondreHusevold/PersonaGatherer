@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Alraune</name>
+    <level>41</level>
+    <arcana>Moon</arcana>
+    <alignment>Lawful Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>17</strength>
+    <magic>35</magic>
+    <endurance>21</endurance>
+    <agility>29</agility>
+    <luck>28</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>Fire, Ice</resist>
+    <block>Dark</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>The basis of the story of Alraune dates to the Middles Ages in Germany. The humanoid-shaped Mandrake root or Mandragora officinarum was widely believed to be produced by the semen of hanged men under the gallows. Alchemists claimed that hanged men ejaculated after their necks were broken and that the earth absorbed their final "strengths". In some versions, it is blood instead of semen. The root itself was used in love philtres and potions while its fruit was supposed to facilitate pregnancy. Witches who "made love" to the Mandrake root were said to produce offspring which had no feelings of real love and had no soul.</information>
+  <skilltree>
+    <skill>
+      <name>Mediarama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Energy Shower</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Old One</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Makarakarn</name>
+      <learned>43</learned>
+    </skill>
+    <skill>
+      <name>Green Wall</name>
+      <learned>44</learned>
+    </skill>
+    <skill>
+      <name>Null Enervate</name>
+      <learned>45</learned>
+    </skill>
+    <skill>
+      <name>Enervate Boost</name>
+      <learned>46</learned>
+    </skill>
+  </skilltree>
+</persona>
+

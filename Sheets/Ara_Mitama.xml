@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Ara Mitama</name>
+    <level>18</level>
+    <arcana>Chariot</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>11</strength>
+    <magic>11</magic>
+    <endurance>11</endurance>
+    <agility>11</agility>
+    <luck>11</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Physical</inherit>
+    <resist>Physical</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>Ara Mitama represents aggression and forcefulness and is the source of valor, anger, passion, and other heated emotions. It is said to be the more wild and untamed side of the dualistic nature of the spirit. It is usually considered opposite to Nigi Mitama.</information>
+  <skilltree>
+    <skill>
+      <name>Assault Dive</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tarukaja</name>
+      <learned>20</learned>
+    </skill>
+    <skill>
+      <name>Sharp Student</name>
+      <learned>21</learned>
+    </skill>
+    <skill>
+      <name>Blue Wall</name>
+      <learned>22</learned>
+    </skill>
+    <skill>
+      <name>Dodge Elec</name>
+      <learned>23</learned>
+    </skill>
+  </skilltree>
+</persona>
+

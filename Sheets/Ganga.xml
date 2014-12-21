@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Ganga</name>
+    <level>29</level>
+    <arcana>Priestess</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>16</strength>
+    <magic>22</magic>
+    <endurance>16</endurance>
+    <agility>19</agility>
+    <luck>21</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Ice</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire, Darkness</weakness>
+  </elemental_properties>
+  <information>In Hindu mythology, Ganga is the goddess that personifies India's most sacred and purifying of rivers, the Ganges. She was born from the toe of Vishnu and originally flowed through heaven, however she would later fall to the earth. Often considered to be the sister of Parvati, through different legends she has been claimed to be the consort of either Shiva, Vishnu, or Agni. It is believed that bathing in her sacred waters can wash away sin and that continued ritualistic bathing will earn a person a place in heaven. She is commonly represented as a beautiful woman with her lower half that of a fish or sea serpent riding on the back of the monster Makara. She is also credited for helping in the creation of the god of war, Kartikeya.</information>
+  <skilltree>
+    <skill>
+      <name>Bufula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Diarama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dekaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mind Slice</name>
+      <learned>31</learned>
+    </skill>
+    <skill>
+      <name>Confuse Boost</name>
+      <learned>32</learned>
+    </skill>
+    <skill>
+      <name>Mediarama</name>
+      <learned>33</learned>
+    </skill>
+    <skill>
+      <name>Evade Fire</name>
+      <learned>35</learned>
+    </skill>
+  </skilltree>
+</persona>
+

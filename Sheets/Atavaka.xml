@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Atavaka</name>
+    <level>72</level>
+    <arcana>Chariot</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>50</strength>
+    <magic>41</magic>
+    <endurance>43</endurance>
+    <agility>41</agility>
+    <luck>48</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>-</resist>
+    <block>Physical, Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>Atavaka ("lord of the forest" in Sanskrit), or Daigensui Myo-O (大元帥明王) in Japanese, used to be a child-eating demon until he received Buddha's enlightenment. He then became one of the Yaksha Kings and vassal to Bishamonten, as well as the protector god of the southwest.</information>
+  <skilltree>
+    <skill>
+      <name>Mahamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Diarahan</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Amrita</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Brave Blade</name>
+      <learned>74</learned>
+    </skill>
+    <skill>
+      <name>Megidolaon</name>
+      <learned>75</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>76</learned>
+    </skill>
+    <skill>
+      <name>Arms Master</name>
+      <learned>79</learned>
+    </skill>
+  </skilltree>
+</persona>
+

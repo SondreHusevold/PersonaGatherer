@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Black Frost</name>
+    <level>38</level>
+    <arcana>Fool</arcana>
+    <alignment>Neutral Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>23</strength>
+    <magic>31</magic>
+    <endurance>22</endurance>
+    <agility>23</agility>
+    <luck>22</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Dark</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Ice, Fire</absorb>
+    <reflect>Dark</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>Black Frost is Atlus' evil rendition of the more good-spirited demon Jack Frost. The word ja'aku in its Japanese name when written in Kanji (邪悪) means "wicked" or "evil", hence its dark characteristics.</information>
+  <skilltree>
+    <skill>
+      <name>Maragion</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Bufula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Ice Boost</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>40</learned>
+    </skill>
+    <skill>
+      <name>Masukunda</name>
+      <learned>41</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>42</learned>
+    </skill>
+    <skill>
+      <name>Agidyne</name>
+      <learned>43</learned>
+    </skill>
+    <skill>
+      <name>Mudoon</name>
+      <learned>44</learned>
+    </skill>
+  </skilltree>
+</persona>
+

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Pabilsag</name>
+    <level>51</level>
+    <arcana>Emperor</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>38</strength>
+    <magic>29</magic>
+    <endurance>30</endurance>
+    <agility>33</agility>
+    <luck>30</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>Fire</block>
+    <absorb>-</absorb>
+    <reflect>Darkness</reflect>
+    <weakness>Ice, Light</weakness>
+  </elemental_properties>
+  <information>Pa Bil Sag (or Pabilsag) was the tutelary god for the city of Isin in Mesopotamian mythology. He is connected to the lost city of Larak and was the consort of the goddess Nininsinna. Together they bore the god of rebirth Damu, according to some texts. One of the most important texts regarding Pa Bil Sag is about his journey to the city of Nippur where he honoured the god Enlil and presented him with many gifts. During this time, he was awarded the title "the wild bull with multicoloured legs".</information>
+  <skilltree>
+    <skill>
+      <name>Blight</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Foolish Whisper</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Stagnant Air</name>
+      <learned>53</learned>
+    </skill>
+    <skill>
+      <name>Silence Boost</name>
+      <learned>54</learned>
+    </skill>
+    <skill>
+      <name>Mudoon</name>
+      <learned>55</learned>
+    </skill>
+    <skill>
+      <name>Arrow Rain</name>
+      <learned>56</learned>
+    </skill>
+  </skilltree>
+</persona>
+

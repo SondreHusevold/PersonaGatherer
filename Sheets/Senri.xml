@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Senri</name>
+    <level>9</level>
+    <arcana>Empress</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>7</strength>
+    <magic>7</magic>
+    <endurance>4</endurance>
+    <agility>11</agility>
+    <luck>5</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>Fire</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>Shin Megami Tensei: Fairy Race
+Shin Megami Tensei III: Nocturne: Holy Race
+Shin Megami Tensei IMAGINE: Holy Beast Race
+Shin Megami Tensei: Strange Journey: Nymph Race
+Shin Megami Tensei IV: Nymph Race
+Last Bible III
+Persona 4: Empress Arcana
+Digital Devil Saga: Avatar Tuner: Beast Race</information>
+  <skilltree>
+    <skill>
+      <name>Dia</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Makajam</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Agi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dekunda</name>
+      <learned>10</learned>
+    </skill>
+    <skill>
+      <name>Media</name>
+      <learned>11</learned>
+    </skill>
+    <skill>
+      <name>Trafuri</name>
+      <learned>14</learned>
+    </skill>
+  </skilltree>
+</persona>
+

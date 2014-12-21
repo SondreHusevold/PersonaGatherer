@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Titan</name>
+    <level>14</level>
+    <arcana>Strength</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>11</strength>
+    <magic>12</magic>
+    <endurance>10</endurance>
+    <agility>10</agility>
+    <luck>6</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>Electricity</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>In Greek mythology, Titans ruled over the entire cosmos, before Zeus, the son of the Titan leader, Cronus, along with the pantheon of Olympian gods, overthrew them and imprisoned them within Tartarus, the deepest reaches of the underworld.</information>
+  <skilltree>
+    <skill>
+      <name>Mazio</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Skull Cracker</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dekunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dodge Ice</name>
+      <learned>16</learned>
+    </skill>
+    <skill>
+      <name>Kill Rush</name>
+      <learned>18</learned>
+    </skill>
+    <skill>
+      <name>Resist Fear</name>
+      <learned>19</learned>
+    </skill>
+  </skilltree>
+</persona>
+

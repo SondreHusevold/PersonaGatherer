@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Angel</name>
+    <level>4</level>
+    <arcana>Justice</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>4</strength>
+    <magic>5</magic>
+    <endurance>2</endurance>
+    <agility>5</agility>
+    <luck>3</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>Wind, Light</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Darkness</weakness>
+  </elemental_properties>
+  <information>Angels have been recorded in various religious lore as celestial beings who faithfully serve God.</information>
+  <skilltree>
+    <skill>
+      <name>Garu</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Patra</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Hama</name>
+      <learned>5</learned>
+    </skill>
+    <skill>
+      <name>Sukukaja</name>
+      <learned>6</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 1</name>
+      <learned>8</learned>
+    </skill>
+    <skill>
+      <name>Hama Boost</name>
+      <learned>9</learned>
+    </skill>
+  </skilltree>
+</persona>
+

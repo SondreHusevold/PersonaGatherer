@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Alice</name>
+    <level>72</level>
+    <arcana>Death</arcana>
+    <alignment>Neutral Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>39</strength>
+    <magic>56</magic>
+    <endurance>33</endurance>
+    <agility>45</agility>
+    <luck>44</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Dark</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Dark</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>Alice is said to be based on Lewis Carroll (Reverend Charles Lutwidge Dodgson)'s character from his famous story Alice in Wonderland, part of Through the Looking Glass. Since Disney adapted Alice in Wonderland, her full name has been said to be Alice Pleasance Liddell or Alice Kingsleigh. The Shin Megami Tensei Alice shares many physical similarities with the character, most notably the blue dress and the blond hair. Also, her signature move "Die for Me!" seems to draw inspiration from the book, as it features spear-wielding card soldiers. Furthermore, her Shin Megami Tensei IMAGINE attack, "Mad Tea Party", takes further inspiration from the book as it references the chapter in which the protagonist met the Mad Hatter and March Hare.</information>
+  <skilltree>
+    <skill>
+      <name>Mamudoon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mudo Boost</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dekunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Endure Light</name>
+      <learned>75</learned>
+    </skill>
+    <skill>
+      <name>Megidola</name>
+      <learned>76</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>77</learned>
+    </skill>
+    <skill>
+      <name>Die for Me!</name>
+      <learned>79</learned>
+    </skill>
+  </skilltree>
+</persona>
+

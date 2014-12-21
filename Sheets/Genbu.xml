@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Genbu</name>
+    <level>40</level>
+    <arcana>Temperance</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>28</strength>
+    <magic>27</magic>
+    <endurance>39</endurance>
+    <agility>12</agility>
+    <luck>21</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>Ice</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>The Black Tortoise or Black Warrior is one of the four symbols of the Chinese constellation (Si Xiang) along with Azure Dragon, Vermillion Bird and White Tiger. It represents the north, the color black, winter and the Water element. It is usually depicted as both a tortoise and a snake, specifically with the snake coiling around the tortoise.</information>
+  <skilltree>
+    <skill>
+      <name>Mabufula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Marakukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 2</name>
+      <learned>42</learned>
+    </skill>
+    <skill>
+      <name>Makara Break</name>
+      <learned>43</learned>
+    </skill>
+    <skill>
+      <name>Blue Wall</name>
+      <learned>44</learned>
+    </skill>
+    <skill>
+      <name>Resist Physical</name>
+      <learned>45</learned>
+    </skill>
+    <skill>
+      <name>Evade Elec</name>
+      <learned>46</learned>
+    </skill>
+  </skilltree>
+</persona>
+

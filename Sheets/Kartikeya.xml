@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Kartikeya</name>
+    <level>67</level>
+    <arcana>Star</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>47</strength>
+    <magic>39</magic>
+    <endurance>40</endurance>
+    <agility>44</agility>
+    <luck>38</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Electricity</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>Kartikeya, the second son of Lord Shiva and Parvati or Shakti, is known by many names. These Include Subramaniam, Sanmukha, Shadanana, Skanda and Guha. In the southern states of India, Kartikeya is a popular deity and is better known as Murugan. He is an embodiment of perfection, a brave leader of God's forces, and a war god, who was created to destroy the demons, representing the negative tendencies in human beings. Kartikeya's other name, Shadanana, which means ‘one with six heads’ corresponds to the five senses and the mind. The six heads also stand for his virtues and enables him to see in all the directions - an important attribute that ensures that he counters all kinds of blows that can hit him. The war imagery and the six heads of Kartikeya indicates that if humans wish to lead themselves efficiently through the battle of life, they must always be alert lest they are shown the wrong path by crafty people with the six demonic vices: kaama (sex), krodha (anger), lobha (greed), moha (passion), mada (ego) and matsarya (jealousy). Kartikeya carries in one hand a spear and his other hand is always blessing devotees. His vehicle is a peacock, a pious bird that grips a serpent with its feet, which symbolizes the ego and desires of people. The peacock represents the destroyer of harmful habits and the conqueror of sensual desires. The symbolism of Kartikeya thus points to the ways and means of reaching perfection in life.</information>
+  <skilltree>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Auto-Mataru</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>68</learned>
+    </skill>
+    <skill>
+      <name>Myriad Arrows</name>
+      <learned>69</learned>
+    </skill>
+    <skill>
+      <name>Growth 2</name>
+      <learned>70</learned>
+    </skill>
+    <skill>
+      <name>Primal Force</name>
+      <learned>75</learned>
+    </skill>
+  </skilltree>
+</persona>
+

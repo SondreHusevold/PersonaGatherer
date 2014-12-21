@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Gabriel</name>
+    <level>44</level>
+    <arcana>Empress</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>28</strength>
+    <magic>34</magic>
+    <endurance>22</endurance>
+    <agility>30</agility>
+    <luck>25</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>Fire</resist>
+    <block>Light</block>
+    <absorb>Wind</absorb>
+    <reflect>-</reflect>
+    <weakness>Darkness</weakness>
+  </elemental_properties>
+  <information>In Abrahamic religion (which encompasses Christianity, Judaism and Islam), Gabriel is a high-ranking messenger angel. His/her name means "Master who is of God" and is known to be the left hand of God and the embodiment of the Holy Spirit, in contrast to Michael who is the right hand of God. To Christians, his/her primary task is that of a messenger who told Elizabeth that she would bear John the Baptist and Mary that she would bear Jesus, meaning he/she is remembered each Christmas/Advent as the messenger of the Annunciation or Immaculate Conception (it was also Gabriel who asked Mary to name her son Jesus, meaning "savior".) He/she is also mentioned as announcing the prophecy of seventy weeks to Daniel and is also recognized as St. Gabriel, the patron saint of communications workers. By Muslims, he is especially noted for revealing the Qur'an to Muhammad and for being the messenger that tells prophets of their obligations. In Islam, Gabriel is the highest-ranking angel, while Raphael is the second. He is also called the Holy Spirit in Islam.</information>
+  <skilltree>
+    <skill>
+      <name>Mabufula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mediarama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Energy Shower</name>
+      <learned>45</learned>
+    </skill>
+    <skill>
+      <name>Survive Dark</name>
+      <learned>47</learned>
+    </skill>
+    <skill>
+      <name>Heat Wave</name>
+      <learned>48</learned>
+    </skill>
+    <skill>
+      <name>Divine Grace</name>
+      <learned>50</learned>
+    </skill>
+  </skilltree>
+</persona>
+

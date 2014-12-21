@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Setanta</name>
+    <level>34</level>
+    <arcana>Emperor</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>23</strength>
+    <magic>21</magic>
+    <endurance>25</endurance>
+    <agility>24</agility>
+    <luck>16</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>-</resist>
+    <block>Electricity</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Setanta is Cu Chulainn's given name. He obtained his more famous name when he killed Culann's guard dog in self-defense and volunteered to take its place ("Cu Chulainn" means "Culann's Hound").</information>
+  <skilltree>
+    <skill>
+      <name>Fatal End</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Zionga</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Sharp Student</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Counterstrike</name>
+      <learned>36</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>38</learned>
+    </skill>
+    <skill>
+      <name>Auto-Maraku</name>
+      <learned>39</learned>
+    </skill>
+    <skill>
+      <name>Null Fire</name>
+      <learned>40</learned>
+    </skill>
+  </skilltree>
+</persona>
+

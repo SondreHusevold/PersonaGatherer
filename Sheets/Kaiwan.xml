@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Kaiwan</name>
+    <level>24</level>
+    <arcana>Star</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>16</strength>
+    <magic>23</magic>
+    <endurance>14</endurance>
+    <agility>15</agility>
+    <luck>11</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Support</inherit>
+    <resist>-</resist>
+    <block>Dark</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Physical</weakness>
+  </elemental_properties>
+  <information>An Astro-Mythological deity in Assyrian mythology. He is associated with the planet Saturn. Kaiwan is also one of the names of Hastur the unspeakable in Lovecraftian lore.</information>
+  <skilltree>
+    <skill>
+      <name>Tetrakarn</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Cell Breaker</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mamudo</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Stagnant Air</name>
+      <learned>26</learned>
+    </skill>
+    <skill>
+      <name>Resist Light</name>
+      <learned>27</learned>
+    </skill>
+    <skill>
+      <name>Life Drain</name>
+      <learned>28</learned>
+    </skill>
+    <skill>
+      <name>Spirit Drain</name>
+      <learned>29</learned>
+    </skill>
+  </skilltree>
+</persona>
+

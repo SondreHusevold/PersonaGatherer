@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Undine</name>
+    <level>33</level>
+    <arcana>Lovers</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>21</strength>
+    <magic>27</magic>
+    <endurance>13</endurance>
+    <agility>26</agility>
+    <luck>19</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Ice</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Famous medieval German-Swiss chemist Paracelsus coined this term for female water sprites. An elemental is a mythological being first appearing in the alchemical works of Paracelsus.</information>
+  <skilltree>
+    <skill>
+      <name>Diarama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Bufula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Posumudi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mabufula</name>
+      <learned>34</learned>
+    </skill>
+    <skill>
+      <name>Mediarama</name>
+      <learned>36</learned>
+    </skill>
+    <skill>
+      <name>Ice Boost</name>
+      <learned>37</learned>
+    </skill>
+  </skilltree>
+</persona>
+

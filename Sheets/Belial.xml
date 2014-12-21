@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Belial</name>
+    <level>68</level>
+    <arcana>Devil</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>51</strength>
+    <magic>31</magic>
+    <endurance>48</endurance>
+    <agility>40</agility>
+    <luck>41</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Dark</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Dark</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>The 68th spirit in the Goetia, he is a mighty king and powerful. He was created next after Lucifer and is of his order. He appears in the form of a beautiful angel sitting in a chariot of fire and speaks with a comely voice. His office is to distribute preferments of senatorships and to cause favor of friends or foes. He bestows excellent familiars and governs 80 legions of spirits. Whoever summons him must have offerings of gifts or sacrifices or he will not give true answers to their demands, but even then with will not spend more than one hour on the truth unless constrained by divine power or his seal, to be worn as a lamin by the person who summons him. - The Lesser Key of Solomon</information>
+  <skilltree>
+    <skill>
+      <name>Mudoon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Myriad Arrows</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Agidyne</name>
+      <learned>69</learned>
+    </skill>
+    <skill>
+      <name>Endure Light</name>
+      <learned>71</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>72</learned>
+    </skill>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>73</learned>
+    </skill>
+  </skilltree>
+</persona>
+

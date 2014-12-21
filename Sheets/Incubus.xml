@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Incubus</name>
+    <level>28</level>
+    <arcana>Devil</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>17</strength>
+    <magic>22</magic>
+    <endurance>16</endurance>
+    <agility>19</agility>
+    <luck>17</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ailment</inherit>
+    <resist>-</resist>
+    <block>Darkness, Fire</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>An Incubus is a demon in male form supposed to lie upon sleepers, especially women, in order to have sexual intercourse with them, according to a number of mythological and legendary traditions. Its female counterpart is the Succubus. An incubus may pursue sexual relations with a woman in order to father a child, as in the legend of Merlin.</information>
+  <skilltree>
+    <skill>
+      <name>Agilao</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Evil Smile</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mind Slice</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Stagnant Air</name>
+      <learned>30</learned>
+    </skill>
+    <skill>
+      <name>Spirit Drain</name>
+      <learned>32</learned>
+    </skill>
+    <skill>
+      <name>Ghastly Wail</name>
+      <learned>33</learned>
+    </skill>
+  </skilltree>
+</persona>
+

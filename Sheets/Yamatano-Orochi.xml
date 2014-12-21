@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Yamata no Orochi</name>
+    <level>34</level>
+    <arcana>Moon</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>29</strength>
+    <magic>21</magic>
+    <endurance>26</endurance>
+    <agility>18</agility>
+    <luck>15</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>Ice, Electricity</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire, Wind</weakness>
+  </elemental_properties>
+  <information>A eight-headed and eight-tailed serpent from Japanese lore. It was slain by Susano-o with the Totsuka no Tsurugi in order to save Kushinada-Hime and gain her as his bride.  The Kusanagi Tsurugi was drawn from its corpse.</information>
+  <skilltree>
+    <skill>
+      <name>Mabufula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Garula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Red Wall</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Green Wall</name>
+      <learned>36</learned>
+    </skill>
+    <skill>
+      <name>Resist Enervate</name>
+      <learned>38</learned>
+    </skill>
+    <skill>
+      <name>Ice Boost</name>
+      <learned>39</learned>
+    </skill>
+  </skilltree>
+</persona>
+

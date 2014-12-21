@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Rangda</name>
+    <level>47</level>
+    <arcana>Magician</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>24</strength>
+    <magic>37</magic>
+    <endurance>30</endurance>
+    <agility>25</agility>
+    <luck>32</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Physical</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>Rangda is the demon queen of the leyaks in Bali, according to traditional Balinese mythology. Terrifying to behold, the child-eating Rangda leads an army of evil witches against the leader of the forces of good - Barong.</information>
+  <skilltree>
+    <skill>
+      <name>Maragion</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tentarafoo</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Agidyne</name>
+      <learned>49</learned>
+    </skill>
+    <skill>
+      <name>Dodge Ice</name>
+      <learned>50</learned>
+    </skill>
+    <skill>
+      <name>Mustard Bomb</name>
+      <learned>51</learned>
+    </skill>
+    <skill>
+      <name>Repel Physical</name>
+      <learned>55</learned>
+    </skill>
+  </skilltree>
+</persona>
+

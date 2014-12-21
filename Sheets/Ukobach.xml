@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Ukobach</name>
+    <level>3</level>
+    <arcana>Devil</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>3</strength>
+    <magic>4</magic>
+    <endurance>3</endurance>
+    <agility>4</agility>
+    <luck>2</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>Fire</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>A lesser demon of Hell. Ukobach has no free will and will only follow the commands of higher demons. He is in charge of maintaining the oil in the infernal boilers, and will often torture the souls trapped in Hell. Ukobach's only ability is to start fires.</information>
+  <skilltree>
+    <skill>
+      <name>Agi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Sukunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Pulinpa</name>
+      <learned>4</learned>
+    </skill>
+    <skill>
+      <name>Confuse Boost</name>
+      <learned>5</learned>
+    </skill>
+    <skill>
+      <name>Resist Fire</name>
+      <learned>6</learned>
+    </skill>
+    <skill>
+      <name>Fire Break</name>
+      <learned>7</learned>
+    </skill>
+  </skilltree>
+</persona>
+

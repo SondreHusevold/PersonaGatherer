@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Sui-Ki</name>
+    <level>57</level>
+    <arcana>Moon</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>42</strength>
+    <magic>49</magic>
+    <endurance>43</endurance>
+    <agility>33</agility>
+    <luck>17</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Ice</absorb>
+    <reflect>Electricity</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>One of the four oni controlled by Fujiwara-no-Chikata. Named after water, Sui-ki can freeze anything to the core.</information>
+  <skilltree>
+    <skill>
+      <name>Bufudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Vicious Strike</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 2</name>
+      <learned>59</learned>
+    </skill>
+    <skill>
+      <name>Tetra Break</name>
+      <learned>60</learned>
+    </skill>
+    <skill>
+      <name>Enduring Soul</name>
+      <learned>62</learned>
+    </skill>
+  </skilltree>
+</persona>
+

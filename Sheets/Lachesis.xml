@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Lachesis</name>
+    <level>51</level>
+    <arcana>Fortune</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>31</strength>
+    <magic>39</magic>
+    <endurance>25</endurance>
+    <agility>34</agility>
+    <luck>31</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>Ice</resist>
+    <block>Wind</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>In Greek mythology, Lachesis (also Lakhesis, Greek: Λάχεσις, English: "disperser of lots", Etymology: λαγχάνω - to obtain by lot, by fate, or by the will of the gods) was the second of the Three Fates, or Moirae. She was the apportioner, deciding how much time for life was to be allowed for each person or being. She measured the thread of life with her rod. She is also said to choose a person's destiny after a thread was measured.</information>
+  <skilltree>
+    <skill>
+      <name>Garudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Masukukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Recarm</name>
+      <learned>53</learned>
+    </skill>
+    <skill>
+      <name>Makara Break</name>
+      <learned>54</learned>
+    </skill>
+    <skill>
+      <name>Absorb Wind</name>
+      <learned>55</learned>
+    </skill>
+    <skill>
+      <name>Red Wall</name>
+      <learned>56</learned>
+    </skill>
+    <skill>
+      <name>Resist Exhaust</name>
+      <learned>57</learned>
+    </skill>
+  </skilltree>
+</persona>
+

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Fortuna</name>
+    <level>35</level>
+    <arcana>Fortune</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>19</strength>
+    <magic>23</magic>
+    <endurance>22</endurance>
+    <agility>26</agility>
+    <luck>22</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>-</resist>
+    <block>Fire, Wind</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>The goddess of Fortune and luck in Roman mythology, daughter of Jupiter, and hopefully brought good luck. She can be represented veiled or blind. Used to be a goddess of blessing and fertility, mainly being worshiped by mothers.</information>
+  <skilltree>
+    <skill>
+      <name>Garula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dodge Elec</name>
+      <learned>37</learned>
+    </skill>
+    <skill>
+      <name>Magarula</name>
+      <learned>38</learned>
+    </skill>
+    <skill>
+      <name>Auto-Sukukaja</name>
+      <learned>39</learned>
+    </skill>
+    <skill>
+      <name>Wind Boost</name>
+      <learned>40</learned>
+    </skill>
+  </skilltree>
+</persona>
+

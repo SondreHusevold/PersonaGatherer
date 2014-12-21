@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Suparna</name>
+    <level>77</level>
+    <arcana>Sun</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>48</strength>
+    <magic>52</magic>
+    <endurance>45</endurance>
+    <agility>55</agility>
+    <luck>38</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>-</resist>
+    <block>Wind</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>Suparna is another name for Garuda, a mythological bird creature of Indian mythology.</information>
+  <skilltree>
+    <skill>
+      <name>Garudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Makajam</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Evade Ice</name>
+      <learned>79</learned>
+    </skill>
+    <skill>
+      <name>Wind Amp</name>
+      <learned>80</learned>
+    </skill>
+    <skill>
+      <name>Magarudyne</name>
+      <learned>81</learned>
+    </skill>
+    <skill>
+      <name>Evade Fire</name>
+      <learned>82</learned>
+    </skill>
+    <skill>
+      <name>Elec Amp</name>
+      <learned>83</learned>
+    </skill>
+  </skilltree>
+</persona>
+

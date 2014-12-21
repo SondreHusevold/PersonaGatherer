@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Parvati</name>
+    <level>37</level>
+    <arcana>Priestess</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>20</strength>
+    <magic>29</magic>
+    <endurance>17</endurance>
+    <agility>25</agility>
+    <luck>27</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>-</resist>
+    <block>Ice</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>This beautiful goddess of love is the second consort of Shiva in the Hindu mythology. A mountain princess, she is the reincarnation of the goddess Sati (Shiva's first consort), and won Shiva's love in her previous life despite his asceticism, but self-immolated herself after her father's disapproval. Reborn as Parvati, she sought him out and became his consort once again. They have the ability to merge into the half-male, half-female Ardha.﻿</information>
+  <skilltree>
+    <skill>
+      <name>Diarama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Nervundi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mediarama</name>
+      <learned>39</learned>
+    </skill>
+    <skill>
+      <name>Marakukaja</name>
+      <learned>40</learned>
+    </skill>
+    <skill>
+      <name>Dodge Elec</name>
+      <learned>41</learned>
+    </skill>
+    <skill>
+      <name>Divine Grace</name>
+      <learned>43</learned>
+    </skill>
+  </skilltree>
+</persona>
+

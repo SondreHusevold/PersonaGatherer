@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Ardha</name>
+    <level>90</level>
+    <arcana>Judgement</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>62</strength>
+    <magic>52</magic>
+    <endurance>64</endurance>
+    <agility>41</agility>
+    <luck>58</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Almighty</inherit>
+    <resist>Physical</resist>
+    <block>Electricity, Ice</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>The term 'Ardhanarishvara' is a combination of three words- 'ardha', 'nari' and 'ishvara', meaning respectively, 'half', 'woman' and 'Lord' or 'God', that is, Ardhanarishvara is the Lord Who is Half Woman. The god is male on one side and female on the other, depicted with the male half bearing aspects of Shiva and the female half bearing aspects of Parvati. It is one of the most common forms of the Divine in Indian art and the figure itself is likely older than the many stories and myths that have formed around it. In some texts, Ardhanarishvara is an androgynous incarnation of Shiva, in others it is the form of Shiva and Parvati, who loved each other so deeply that they joined as one being rather than stay apart.</information>
+  <skilltree>
+    <skill>
+      <name>Primal Force</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>God's Hand</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Megidolaon</name>
+      <learned>91</learned>
+    </skill>
+    <skill>
+      <name>Null Dizzy</name>
+      <learned>92</learned>
+    </skill>
+    <skill>
+      <name>Auto-Rakukaja</name>
+      <learned>93</learned>
+    </skill>
+    <skill>
+      <name>Mediarahan</name>
+      <learned>94</learned>
+    </skill>
+    <skill>
+      <name>Angelic Grace</name>
+      <learned>95</learned>
+    </skill>
+    <skill>
+      <name>Null Physical</name>
+      <learned>96</learned>
+    </skill>
+  </skilltree>
+</persona>
+

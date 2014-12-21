@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Cerberus</name>
+    <level>52</level>
+    <arcana>Hierophant</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>37</strength>
+    <magic>30</magic>
+    <endurance>32</endurance>
+    <agility>35</agility>
+    <luck>29</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Fire</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>Cerberus, in Greek myth, is a monster that guards the gates of the underworld, the realm of Hades and the dead. It is generally depicted as a vicious, gargantuan dog with three heads, although accounts may vary.  
+Cerberus is in fact the Latin transliteration of the Greek name Kerberos. The dominance of Latin throughout the modern Western world was for many centuries precipitated by functionaries of the Roman Catholic Church. However within contemporary non-denominational academic discourse, the use of Latin for non-Roman words is in sharp decline.</information>
+  <skilltree>
+    <skill>
+      <name>Agidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Gigantic Fist</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Vicious Strike</name>
+      <learned>53</learned>
+    </skill>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>53</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 2</name>
+      <learned>55</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>57</learned>
+    </skill>
+    <skill>
+      <name>Auto-Sukukaja</name>
+      <learned>58</learned>
+    </skill>
+  </skilltree>
+</persona>
+

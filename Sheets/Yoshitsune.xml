@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Yoshitsune</name>
+    <level>75</level>
+    <arcana>Tower</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>52</strength>
+    <magic>39</magic>
+    <endurance>49</endurance>
+    <agility>61</agility>
+    <luck>34</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>Fire</resist>
+    <block>Phys</block>
+    <absorb>N/A</absorb>
+    <reflect>Elec/Light</reflect>
+    <weakness>N/A</weakness>
+  </elemental_properties>
+  <information>"A Japanese general of the Genpei War near the end of the Heian era and start of the Kamakura era. His bold ingenuity and ruthless skill with a blade are still praised in Japan today."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Brave Blade</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Heat Riser</name>
+      <learned>77</learned>
+    </skill>
+    <skill>
+      <name>Repel Elec</name>
+      <learned>78</learned>
+    </skill>
+    <skill>
+      <name>Elec Amp</name>
+      <learned>79</learned>
+    </skill>
+    <skill>
+      <name>Hassou Tobi</name>
+      <learned>83</learned>
+    </skill>
+  </skilltree>
+</persona>
+

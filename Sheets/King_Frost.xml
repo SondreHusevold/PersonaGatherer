@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>King Frost</name>
+    <level>22</level>
+    <arcana>Emperor</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>11</strength>
+    <magic>20</magic>
+    <endurance>17</endurance>
+    <agility>13</agility>
+    <luck>12</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Ice</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Most likely came from The Frost Fairies, a story written by Margaret T. Canby about King (Jack) Frost, a kind fairy king from the cold North.</information>
+  <skilltree>
+    <skill>
+      <name>Bufula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mabufu</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Ice Break</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakukaja</name>
+      <learned>23</learned>
+    </skill>
+    <skill>
+      <name>Dodge Fire</name>
+      <learned>24</learned>
+    </skill>
+    <skill>
+      <name>Ice Boost</name>
+      <learned>26</learned>
+    </skill>
+    <skill>
+      <name>Null Fire</name>
+      <learned>27</learned>
+    </skill>
+    <skill>
+      <name>Anima Freeze</name>
+      <learned>28</learned>
+    </skill>
+  </skilltree>
+</persona>
+

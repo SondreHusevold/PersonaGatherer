@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Ippon-Datara</name>
+    <level>17</level>
+    <arcana>Hermit</arcana>
+    <alignment>Neutral Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>15</strength>
+    <magic>6</magic>
+    <endurance>14</endurance>
+    <agility>13</agility>
+    <luck>10</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Darkness</inherit>
+    <resist>Fire</resist>
+    <block>Darkness</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>A rarely seen creature, one is more likely to see his footprints on the mountains. Some believe he might be a blacksmith or the ghost of one.</information>
+  <skilltree>
+    <skill>
+      <name>Mudo</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Maragi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mamudo</name>
+      <learned>19</learned>
+    </skill>
+    <skill>
+      <name>Agilao</name>
+      <learned>20</learned>
+    </skill>
+    <skill>
+      <name>Rampage</name>
+      <learned>21</learned>
+    </skill>
+    <skill>
+      <name>Mudo Boost</name>
+      <learned>22</learned>
+    </skill>
+  </skilltree>
+</persona>
+

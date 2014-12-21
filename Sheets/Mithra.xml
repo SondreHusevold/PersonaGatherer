@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Mithra</name>
+    <level>31</level>
+    <arcana>Temperance</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>22</strength>
+    <magic>26</magic>
+    <endurance>21</endurance>
+    <agility>16</agility>
+    <luck>15</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>-</resist>
+    <block>Ice, Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>In Zoroastrian mythology, Mithra (or Mitra) was a deity of contracts who was the protector of truth and the enemy of error. He was created by the supreme deity Ahura Mazda as the greatest of all Yazatas and an important aid in the destruction of the demonic forces led by Angra Mainyu (or known as Ahriman) in later Persian sources. He was one of the three Yazatas alongside Rashnu and Sraosha who judged the souls of the dead.</information>
+  <skilltree>
+    <skill>
+      <name>Mahama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Seal Bomb</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tetra Break</name>
+      <learned>33</learned>
+    </skill>
+    <skill>
+      <name>Hamaon</name>
+      <learned>34</learned>
+    </skill>
+    <skill>
+      <name>Dodge Elec</name>
+      <learned>35</learned>
+    </skill>
+    <skill>
+      <name>Hama Boost</name>
+      <learned>36</learned>
+    </skill>
+    <skill>
+      <name>Null Mute</name>
+      <learned>37</learned>
+    </skill>
+  </skilltree>
+</persona>
+

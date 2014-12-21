@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Oni</name>
+    <level>30</level>
+    <arcana>Strength</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>25</strength>
+    <magic>12</magic>
+    <endurance>26</endurance>
+    <agility>18</agility>
+    <luck>16</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Physical</inherit>
+    <resist>Physical</resist>
+    <block>Fire</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>"An evil monster of Japanese lore known for its hideous appearance and brute strength. They loot and plunder villages, massacring the townspeople with their iron clubs."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Fatal End</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Counter</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Cruel Attack</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Atom Smasher</name>
+      <learned>32</learned>
+    </skill>
+    <skill>
+      <name>Resist Physical</name>
+      <learned>33</learned>
+    </skill>
+    <skill>
+      <name>Endure</name>
+      <learned>34</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>35</learned>
+    </skill>
+  </skilltree>
+</persona>
+

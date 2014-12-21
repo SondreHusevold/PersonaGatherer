@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Shiki-Ouji</name>
+    <level>56</level>
+    <arcana>Fool</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>50</strength>
+    <magic>29</magic>
+    <endurance>31</endurance>
+    <agility>41</agility>
+    <luck>24</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>-</inherit>
+    <resist>-</resist>
+    <block>Fire, Ice</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>The Shikiouji (or Shiki-Ouji) is an exceptionally powerful type of Shikigami that could only be summoned as a servant by the most elite of those that practiced the mystical arts of Ying-Yang. It could be used to scare away demons that cause sickness and to ward off disasters to its master. The Shikiouji's basic nature is said to be very close to that of an Oni and is thus very ferocious, making it very dangerous for average mystics to attempt to summon it.</information>
+  <skilltree>
+    <skill>
+      <name>Navas Nebula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Matarunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Revolution</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Apt Pupil</name>
+      <learned>58</learned>
+    </skill>
+    <skill>
+      <name>Growth 2</name>
+      <learned>59</learned>
+    </skill>
+    <skill>
+      <name>Null Physical</name>
+      <learned>62</learned>
+    </skill>
+  </skilltree>
+</persona>
+

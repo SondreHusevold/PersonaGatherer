@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Alilat</name>
+    <level>70</level>
+    <arcana>Empress</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>39</strength>
+    <magic>48</magic>
+    <endurance>49</endurance>
+    <agility>39</agility>
+    <luck>42</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Support</inherit>
+    <resist>-</resist>
+    <block>Ice</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>Al-Lat was one of three main idols alongside al-'Uzza and al-Manat worshipped by the people of Mecca before the message of Islam was spread by Prophet Muhammad. Its origins are traced from the traditions of Sumerian civilization brought to pre-Islamic Arabia by merchants and nomads who idolized stones in their daily life. In one instance, it is regarded as a goddess, and had a son Dusura, who was idolized by the people of Petra in ancient Jordan. Alilat is associated with the morning star, which is also associated with Venus. In other words, Al-Lat is Lucifer, but they are separate entities.</information>
+  <skilltree>
+    <skill>
+      <name>Makarakarn</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mabufudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 3</name>
+      <learned>72</learned>
+    </skill>
+    <skill>
+      <name>Evade Physical</name>
+      <learned>73</learned>
+    </skill>
+    <skill>
+      <name>Growth 2</name>
+      <learned>74</learned>
+    </skill>
+    <skill>
+      <name>Auto-Masuku</name>
+      <learned>75</learned>
+    </skill>
+  </skilltree>
+</persona>
+

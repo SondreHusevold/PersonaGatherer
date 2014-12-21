@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Ishtar</name>
+    <level>71</level>
+    <arcana>Lovers</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>46</strength>
+    <magic>44</magic>
+    <endurance>33</endurance>
+    <agility>48</agility>
+    <luck>49</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>-</resist>
+    <block>Electricity</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>Ishtar is the Babylonian goddess of love and fertility, the Babylonian equivalent of the Sumerian goddess Inana. She is the personification of the planet Venus. Her father is uncertain, sometimes claimed to be the daughter of Nanna, the moon god, or Anu, the sky god. She is also known as the "Lady of Battles" because she is known as a very violent deity. She is the creator and guardian of life. Her symbol is the eight-pointed star, and her holy city is Uruk (or Erech). Uruk is a town of sacred courtesans - part of her cult was devoted to prostitution.</information>
+  <skilltree>
+    <skill>
+      <name>Mediarahan</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Samarecarm</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mutudi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>73</learned>
+    </skill>
+    <skill>
+      <name>Amrita</name>
+      <learned>75</learned>
+    </skill>
+    <skill>
+      <name>Spell Master</name>
+      <learned>76</learned>
+    </skill>
+    <skill>
+      <name>Absorb Wind</name>
+      <learned>77</learned>
+    </skill>
+    <skill>
+      <name>Salvation</name>
+      <learned>78</learned>
+    </skill>
+  </skilltree>
+</persona>
+

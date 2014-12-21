@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Gdon</name>
+    <level>31</level>
+    <arcana>Sun</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>27</strength>
+    <magic>10</magic>
+    <endurance>23</endurance>
+    <agility>22</agility>
+    <luck>18</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Fire</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>Gdon is also known as Dawon from Hindu mythology, which in turn carried over the myth of Dawon from Tibetan legends. In Hinduism, Dawon the lion/tiger is the mount of the Hindu goddess Durga, being an offering to the goddess, who aided her when Nirvana ever needed protection. When in battle, Dawon used her claws and teeth to rend any foes that were underfoot asunder. It carried Durga to victory over the buffalo demon Mahishasur. Durga and Dawon are worshiped in a more peaceful environment instead of their usual violent festivals, were Durga is called the Fair Lady and Dawon is known as the pure white tigress. Most legends about Dawon show her as a violent tigress, tearing her foes apart.</information>
+  <skilltree>
+    <skill>
+      <name>Agilao</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Maragi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Fire Break</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Growth 2</name>
+      <learned>33</learned>
+    </skill>
+    <skill>
+      <name>Maragion</name>
+      <learned>34</learned>
+    </skill>
+    <skill>
+      <name>Fire Boost</name>
+      <learned>35</learned>
+    </skill>
+    <skill>
+      <name>Evade Ice</name>
+      <learned>36</learned>
+    </skill>
+  </skilltree>
+</persona>
+

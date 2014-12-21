@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Kin-Ki</name>
+    <level>53</level>
+    <arcana>Chariot</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>41</strength>
+    <magic>25</magic>
+    <endurance>53</endurance>
+    <agility>23</agility>
+    <luck>27</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Physical</inherit>
+    <resist>-</resist>
+    <block>Physical</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>Kin-Ki is one of the four oni controlled by Fujiwara No Chikata. Named after gold, Kin-Ki's body is so strong that no weapons in existence can pierce it.</information>
+  <skilltree>
+    <skill>
+      <name>Vile Assault</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Gigantic Fist</name>
+      <learned>56</learned>
+    </skill>
+    <skill>
+      <name>Seal Bomb</name>
+      <learned>57</learned>
+    </skill>
+    <skill>
+      <name>Revolution</name>
+      <learned>59</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>60</learned>
+    </skill>
+  </skilltree>
+</persona>
+

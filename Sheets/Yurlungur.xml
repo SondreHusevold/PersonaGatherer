@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Yurlungur</name>
+    <level>69</level>
+    <arcana>Temperance</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>41</strength>
+    <magic>50</magic>
+    <endurance>45</endurance>
+    <agility>43</agility>
+    <luck>35</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Negative Status</inherit>
+    <resist>Wind</resist>
+    <block>-</block>
+    <absorb>Ice</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>In Australian Aboriginal mythology, the Yurlungur is a great copper snake that is said to bring the rains and thus incite the renewal of life. It is commonly known as the rainbow serpent because the water where it lives shines like a rainbow. It was believed that if colored light was seen inside a well (likely caused by light reflection) then the Yurlungur was within.</information>
+  <skilltree>
+    <skill>
+      <name>Virus Wave</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Bufudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Growth 3</name>
+      <learned>71</learned>
+    </skill>
+    <skill>
+      <name>Mediarahan</name>
+      <learned>72</learned>
+    </skill>
+    <skill>
+      <name>Samarecarm</name>
+      <learned>74</learned>
+    </skill>
+    <skill>
+      <name>Repel Light</name>
+      <learned>75</learned>
+    </skill>
+  </skilltree>
+</persona>
+

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Izanagi-no-Okami</name>
+    <level>91</level>
+    <arcana>World</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>80</strength>
+    <magic>80</magic>
+    <endurance>80</endurance>
+    <agility>80</agility>
+    <luck>80</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>None</inherit>
+    <resist>Physical, Fire, Ice, Electricity, Wind</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>The name "Ōkami", which means "Great Deity", symbolizes Izanagi's true identity as the deity born of the seven divine generations in Japanese mythology.</information>
+  <skilltree>
+    <skill>
+      <name>Megidolaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Victory Cry</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Angelic Grace</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Agidyne</name>
+      <learned>92</learned>
+    </skill>
+    <skill>
+      <name>Bufudyne</name>
+      <learned>93</learned>
+    </skill>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>94</learned>
+    </skill>
+    <skill>
+      <name>Garudyne</name>
+      <learned>95</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>96</learned>
+    </skill>
+    <skill>
+      <name>Ice Amp</name>
+      <learned>97</learned>
+    </skill>
+    <skill>
+      <name>Elec Amp</name>
+      <learned>98</learned>
+    </skill>
+    <skill>
+      <name>Wind Amp</name>
+      <learned>99</learned>
+    </skill>
+    <skill>
+      <name>Myriad Truths</name>
+      <learned>Innate</learned>
+    </skill>
+  </skilltree>
+</persona>
+

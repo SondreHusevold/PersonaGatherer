@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Siegfried</name>
+    <level>63</level>
+    <arcana>Strength</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>48</strength>
+    <magic>36</magic>
+    <endurance>41</endurance>
+    <agility>38</agility>
+    <luck>33</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Physical</inherit>
+    <resist>Ice</resist>
+    <block>Physical</block>
+    <absorb>None</absorb>
+    <reflect>None</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>Siegfried is the German name of Sigurd, a famed hero in Norse mythology. Sigurd was requested to slay Fafnir by Regin, his foster parent and guardian. Regin was the brother of Otr and Fafnir and son of Hreidmar. Otr was killed by the Aesir after they mistook him for an otter, and as compensation had his body stuffed with gold. Fafnir then killed Hreidmar and stole the "Otr's Gold", and to better guard it, turned himself into a dragon.</information>
+  <skilltree>
+    <skill>
+      <name>Akasha Arts</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Masukukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>65</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 3</name>
+      <learned>66</learned>
+    </skill>
+    <skill>
+      <name>Rainy Death</name>
+      <learned>68</learned>
+    </skill>
+    <skill>
+      <name>God's Hand</name>
+      <learned>70</learned>
+    </skill>
+  </skilltree>
+</persona>
+

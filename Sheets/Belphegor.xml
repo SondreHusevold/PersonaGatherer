@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Belphegor</name>
+    <level>61</level>
+    <arcana>Devil</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>40</strength>
+    <magic>48</magic>
+    <endurance>42</endurance>
+    <agility>39</agility>
+    <luck>21</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Electricity</absorb>
+    <reflect>Dark</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>Belphegor is a demon of Sloth, one of the 7 Deadly Sins. His name is a corruption of Baal-Peor, the name for the god of the Moabites. Belphegor gives people ideas for inventions that will make them rich and thus greedy and selfish. Sometimes is portrayed as a beautiful woman, but other times is portrayed as a monstrous, horned demon.
+Some claim that he must be worshiped on a toilet, thus we get his design in the Shin Megami Tensei games.</information>
+  <skilltree>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Evil Smile</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Marakunda</name>
+      <learned>63</learned>
+    </skill>
+    <skill>
+      <name>Fear Boost</name>
+      <learned>64</learned>
+    </skill>
+    <skill>
+      <name>Old One</name>
+      <learned>65</learned>
+    </skill>
+    <skill>
+      <name>Enervate Boost</name>
+      <learned>66</learned>
+    </skill>
+    <skill>
+      <name>Elec Amp</name>
+      <learned>67</learned>
+    </skill>
+  </skilltree>
+</persona>
+

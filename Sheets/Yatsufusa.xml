@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Yatsufusa</name>
+    <level>49</level>
+    <arcana>Hanged Man</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>32</strength>
+    <magic>33</magic>
+    <endurance>27</endurance>
+    <agility>36</agility>
+    <luck>26</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>None</resist>
+    <block>Light</block>
+    <absorb>Fire</absorb>
+    <reflect>Wind</reflect>
+    <weakness>None</weakness>
+  </elemental_properties>
+  <information>"7 days after its birth, a wolf killed its mother. Yoshizane Satomi later promised his daughter's hand if it could defeat his enemy, but after Yatsufusa's success, Yoshizane's retainer shot it dead."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Agidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Masukukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Fire Boost</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Heat Wave</name>
+      <learned>51</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>52</learned>
+    </skill>
+    <skill>
+      <name>Dodge Physical</name>
+      <learned>53</learned>
+    </skill>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>54</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>55</learned>
+    </skill>
+  </skilltree>
+</persona>
+

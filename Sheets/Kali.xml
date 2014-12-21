@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Kali</name>
+    <level>50</level>
+    <arcana>Strength</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>37</strength>
+    <magic>25</magic>
+    <endurance>36</endurance>
+    <agility>35</agility>
+    <luck>27</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Physical</inherit>
+    <resist>-</resist>
+    <block>Ice/Dark</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Elec</weakness>
+  </elemental_properties>
+  <information>A Hindu goddess associated with death and destruction. The name Kali means "black", but has by folk etymology come to mean "force of time (kala)". Despite her negative connotations, she is today considered the goddess of time and change. Although sometimes presented as dark and violent, her earliest incarnation as a figure of annihilation still has some influence. More complex Tantric beliefs sometimes extend her role so far as to be the "ultimate reality" or Brahman. She is also revered as Bhavatarini (literally "redeemer of the universe"). Comparatively recent devotional movements largely conceive Kali as a benevolent mother goddess.</information>
+  <skilltree>
+    <skill>
+      <name>Bufudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mudoon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Deathbound</name>
+      <learned>52</learned>
+    </skill>
+    <skill>
+      <name>Revolution</name>
+      <learned>53</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>54</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>55</learned>
+    </skill>
+  </skilltree>
+</persona>
+

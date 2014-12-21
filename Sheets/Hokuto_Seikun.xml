@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Hokuto Seikun</name>
+    <level>45</level>
+    <arcana>Hierophant</arcana>
+    <alignment>Lawful Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>29</strength>
+    <magic>34</magic>
+    <endurance>31</endurance>
+    <agility>26</agility>
+    <luck>22</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Electricity</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Hokuto Seikun is the Japanese name for Bei Ji Xian Weng aka Bei Dou Xing Jun (北斗星君), a deity in Taoism. He administers the life and death of a person, and judges their actions in life which he then use to decide whether one goes to heaven or hell. Also known as the Lord of the Northern Hemisphere, Wise Man of the North Star or the Big Dipper. In other verses, he appears as a strict old man wrapped in icy robes, and is the opposite of Nan Dou Xing Jun (南斗星君), a mild-mannered youth wrapped in fiery robes.</information>
+  <skilltree>
+    <skill>
+      <name>Zionga</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Elec Boost</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Navas Nebula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Blade of Fury</name>
+      <learned>47</learned>
+    </skill>
+    <skill>
+      <name>Resist Exhaust</name>
+      <learned>48</learned>
+    </skill>
+    <skill>
+      <name>Counterstrike</name>
+      <learned>50</learned>
+    </skill>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>51</learned>
+    </skill>
+  </skilltree>
+</persona>
+

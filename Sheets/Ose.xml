@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Ose</name>
+    <level>31</level>
+    <arcana>Fool</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>28</strength>
+    <magic>12</magic>
+    <endurance>20</endurance>
+    <agility>25</agility>
+    <luck>15</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Physical</inherit>
+    <resist>Physical</resist>
+    <block>Wind</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>The 57th spirit of the Goetia and a great President of Hell. He first appears as a leopard, but after some time will take the form of a man. He gives skill in all liberal sciences and true answers concerning divine and secret things. He can change any men into any shape the exorcist may desire, and the one that is changed will not know it.   
+He can also put them in a state of insanity on which the victim will believe that their identity has changed. The delusion, however will only last for an hour. Ose governs over 30 legions of spirits.</information>
+  <skilltree>
+    <skill>
+      <name>Power Slash</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Atom Smasher</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Poison Mist</name>
+      <learned>33</learned>
+    </skill>
+    <skill>
+      <name>Poison Boost</name>
+      <learned>34</learned>
+    </skill>
+    <skill>
+      <name>Auto-Sukukaja</name>
+      <learned>35</learned>
+    </skill>
+    <skill>
+      <name>Survive Light</name>
+      <learned>36</learned>
+    </skill>
+  </skilltree>
+</persona>
+

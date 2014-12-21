@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Vishnu</name>
+    <level>73</level>
+    <arcana>Temperance</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>46</strength>
+    <magic>52</magic>
+    <endurance>34</endurance>
+    <agility>54</agility>
+    <luck>43</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Almighty</inherit>
+    <resist>-</resist>
+    <block>Ice, Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Vishnu is one of the primary deities in the Hindu pantheon. He is called The Preserver and is known for a kindly demeanor and genuine interest in the welfare of humanity. In the Hindu religion, Vishnu the Preserver is one of the three principle deities of the Trimurti (Hindu Triad) along with Brahma, the Creator, and Shiva, the Destroyer. He was first seen in early Vedic mythology as the god that assisted Indra in defeating Vritra and is now the supreme deity within Vaishnavism, a branch of Hinduism that focuses on the worship of Vishnu. As the preserver, Vishnu maintains balance within the world, and at the end of our current aeon he will appear as his final avatar Kalki and judge whether mortals have been good or evil. After this, the universe will end and creation will start anew. He is depicted with up to four arms, blue skin, holding a chakra wheel, a lotus flower, a mace and a conch, and rides on the back of Garuda. He also sleeps on the back of a great naga named Ananta Shesha.</information>
+  <skilltree>
+    <skill>
+      <name>Megidolaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Akasha Arts</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mabufudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 3</name>
+      <learned>75</learned>
+    </skill>
+    <skill>
+      <name>God's Hand</name>
+      <learned>76</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>78</learned>
+    </skill>
+    <skill>
+      <name>Angelic Grace</name>
+      <learned>79</learned>
+    </skill>
+  </skilltree>
+</persona>
+

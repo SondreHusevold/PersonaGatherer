@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Lilim</name>
+    <level>10</level>
+    <arcana>Devil</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>4</strength>
+    <magic>11</magic>
+    <endurance>5</endurance>
+    <agility>9</agility>
+    <luck>8</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Darkness</inherit>
+    <resist>Darkness</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>In Jewish folklore, lilin (or lilim) were dangerous creatures. They were said to be the children of Lilith by Samael, the angel of death. They are demons and are similar to succubi. Men feared the lilim for this reason and women also feared the lilim because it is believed that they kidnap children like their mother Lilith.</information>
+  <skilltree>
+    <skill>
+      <name>Zio</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mudo</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Enervation</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Enervate Boost</name>
+      <learned>12</learned>
+    </skill>
+    <skill>
+      <name>Sukukaja</name>
+      <learned>13</learned>
+    </skill>
+    <skill>
+      <name>Mamudo</name>
+      <learned>15</learned>
+    </skill>
+  </skilltree>
+</persona>
+

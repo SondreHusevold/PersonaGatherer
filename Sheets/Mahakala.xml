@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Mahakala</name>
+    <level>78</level>
+    <arcana>Death</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>58</strength>
+    <magic>38</magic>
+    <endurance>57</endurance>
+    <agility>49</agility>
+    <luck>39</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Phys</inherit>
+    <resist>-</resist>
+    <block>Dark</block>
+    <absorb>Fire</absorb>
+    <reflect>Elec</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>Mahakala is relied upon in all schools of Tibetan Buddhism and is depicted in a number of variations, each with distinctly different qualities and aspects. He is also regarded as the emanation of different beings in different cases, though he is best known as a wrathful manifestation of Avalokiteshvara, the bodhisattva of compassion. He is a Dharmapala (Dharma Protector) and one of the eight main Dharmapalas, alongside Yama, Yamantaka, Hayagriva, Vaisravana, Palden Lhamo, Tshangspa Dkarpo, and Begtse.</information>
+  <skilltree>
+    <skill>
+      <name>Agidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Myriad Arrows</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>80</learned>
+    </skill>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>82</learned>
+    </skill>
+    <skill>
+      <name>Mamudoon</name>
+      <learned>83</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>84</learned>
+    </skill>
+    <skill>
+      <name>Mudo Boost</name>
+      <learned>85</learned>
+    </skill>
+  </skilltree>
+</persona>
+

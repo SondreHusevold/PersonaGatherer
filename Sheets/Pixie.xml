@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Pixie</name>
+    <level>2</level>
+    <arcana>Magician</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>2</strength>
+    <magic>3</magic>
+    <endurance>2</endurance>
+    <agility>4</agility>
+    <luck>2</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>Wind</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>According to the local folklore of southwest England, pixies are small mischievous creatures that inhabit the countryside and woodlands that like to play pranks on humans. Depending on the tale told, pixies can vary in size from tiny enough to fit in the palm of a human's hand to the size of a small child, although they are always a good deal below the size of an average human. They can be portrayed with or without wings, and over the years have taken on many traits usually associated with fairies, often leading to the common misconception that they are one and the same.</information>
+  <skilltree>
+    <skill>
+      <name>Dia</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Patra</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Zio</name>
+      <learned>3</learned>
+    </skill>
+    <skill>
+      <name>Me Patra</name>
+      <learned>4</learned>
+    </skill>
+    <skill>
+      <name>Trafuri</name>
+      <learned>8</learned>
+    </skill>
+  </skilltree>
+</persona>
+

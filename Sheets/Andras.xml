@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Andras</name>
+    <level>20</level>
+    <arcana>Moon</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>14</strength>
+    <magic>16</magic>
+    <endurance>13</endurance>
+    <agility>12</agility>
+    <luck>12</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>-</resist>
+    <block>Electricity</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>According to the writings in The Lesser Key of Solomon, Andras is the sixty-third spirit listed in the Goetia. He is a Great Marquis of Hell with thirty legions of demons under his command. He is depicted as a humanoid with an angel's wings and an owl's head, riding a black wolf and holding a bright sword. Among the spirits of the Goetia, Andras is one of the most violent and dangerous to summon. The conjurer and any attendants he may have must stay within a magic circle at all times no matter how much Andras tempts them to leave it, or he will surely kill them. He is able to control a person's anger or inflict rage upon any person the conjurer desires and tempt people to kill their servants or masters. If so asked, Andras will gladly kill any person the conjurer desires, and in certain demonology it is suggested that Flauros is his servant.</information>
+  <skilltree>
+    <skill>
+      <name>Media</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mazio</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Sukukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Blue Wall</name>
+      <learned>22</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 2</name>
+      <learned>23</learned>
+    </skill>
+    <skill>
+      <name>Zionga</name>
+      <learned>24</learned>
+    </skill>
+    <skill>
+      <name>Dodge Wind</name>
+      <learned>25</learned>
+    </skill>
+  </skilltree>
+</persona>
+

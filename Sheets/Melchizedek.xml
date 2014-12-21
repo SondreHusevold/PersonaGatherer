@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Melchizedek</name>
+    <level>66</level>
+    <arcana>Justice</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>51</strength>
+    <magic>46</magic>
+    <endurance>46</endurance>
+    <agility>34</agility>
+    <luck>28</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>-</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Dark</weakness>
+  </elemental_properties>
+  <information>Melchizedek is a biblical figure known for his wisdom. Several sources, including the Book of Genesis, are quoted to mention Melchizedek as a king, as well as a priest, in the time of Abraham.</information>
+  <skilltree>
+    <skill>
+      <name>Mediarahan</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Hamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Akasha Arts</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Matarukaja</name>
+      <learned>68</learned>
+    </skill>
+    <skill>
+      <name>Mahamaon</name>
+      <learned>69</learned>
+    </skill>
+    <skill>
+      <name>God's Hand</name>
+      <learned>72</learned>
+    </skill>
+  </skilltree>
+</persona>
+

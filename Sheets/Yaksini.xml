@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Yaksini</name>
+    <level>18</level>
+    <arcana>Empress</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>13</strength>
+    <magic>16</magic>
+    <endurance>10</endurance>
+    <agility>12</agility>
+    <luck>10</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>Electricity</resist>
+    <block>Ice</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>A yaksini is the female counterpart of the male yaksa, and they both attend to Kubera (also called Kuber), the Hindu god of wealth who rules in the mythical Himalayan kingdom of Alaka. They both look after treasure hidden in the earth and resemble fairies. Yaksini are often depicted as beautiful and voluptuous, with wide hips, narrow waists, broad shoulders, and exaggerated, spherical breasts. In the Uddamareshvara Tantra, thirty-six yaksini are described, including their mantras and ritual prescriptions. A similar list of yaksas and yaksini is given in the Tantraraja Tantra, where it says that these beings are givers of whatever is desired.</information>
+  <skilltree>
+    <skill>
+      <name>Mabufu</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Arm Chopper</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Swift Strike</name>
+      <learned>20</learned>
+    </skill>
+    <skill>
+      <name>Ice Boost</name>
+      <learned>21</learned>
+    </skill>
+    <skill>
+      <name>Bufula</name>
+      <learned>22</learned>
+    </skill>
+    <skill>
+      <name>Auto-Tarukaja</name>
+      <learned>23</learned>
+    </skill>
+  </skilltree>
+</persona>
+

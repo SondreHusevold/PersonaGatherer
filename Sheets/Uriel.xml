@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Uriel</name>
+    <level>58</level>
+    <arcana>Justice</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>35</strength>
+    <magic>42</magic>
+    <endurance>37</endurance>
+    <agility>36</agility>
+    <luck>31</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>Fire</reflect>
+    <weakness>Dark</weakness>
+  </elemental_properties>
+  <information>In Abrahamic religion, Uriel was a high ranking archangel who was listed as the fourth angel that represented the four cardinal points, the others being Michael, Gabriel and Raphael. Although he is never mentioned by name in any of the widely accepted holy scriptures, he came to be known as Uriel which means "Flame of God" for his depiction of holding a flaming sword. He is said to carry the stars in the sky, and on the final day of judgement, he will oversee the resurrection and retribution of human souls. According to the Apocrypha, Uriel was the guardian to the gates of the Garden of Eden.</information>
+  <skilltree>
+    <skill>
+      <name>Maragion</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Hamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>60</learned>
+    </skill>
+    <skill>
+      <name>Agidyne</name>
+      <learned>61</learned>
+    </skill>
+    <skill>
+      <name>Endure Dark</name>
+      <learned>62</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>63</learned>
+    </skill>
+    <skill>
+      <name>Null Dark</name>
+      <learned>64</learned>
+    </skill>
+  </skilltree>
+</persona>
+

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Hitokoto-Nushi</name>
+    <level>41</level>
+    <arcana>Hermit</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>28</strength>
+    <magic>33</magic>
+    <endurance>30</endurance>
+    <agility>20</agility>
+    <luck>19</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Negative stats</inherit>
+    <resist>-</resist>
+    <block>Ice, Wind</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>"Japanese god of words, thought to be the deification of echoes. Said to proclaim good and bad in a single word, and all words uttered by him come true."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Foolish Whisper</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Auto-Sukukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Poison Arrow</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Zionga</name>
+      <learned>43</learned>
+    </skill>
+    <skill>
+      <name>Resist Fire</name>
+      <learned>45</learned>
+    </skill>
+    <skill>
+      <name>Elec Boost</name>
+      <learned>46</learned>
+    </skill>
+    <skill>
+      <name>Auto-Masuku</name>
+      <learned>47</learned>
+    </skill>
+  </skilltree>
+</persona>
+

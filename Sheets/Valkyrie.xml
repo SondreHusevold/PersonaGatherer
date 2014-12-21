@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Valkyrie</name>
+    <level>8</level>
+    <arcana>Strength</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>7</strength>
+    <magic>6</magic>
+    <endurance>6</endurance>
+    <agility>7</agility>
+    <luck>5</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>Ice</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>In Norse mythology, a valkyrie (from Old Norse valkyrja "chooser of the slain") is one of a host of female figures who decide who will die in battle. The valkyries bring their chosen to the afterlife hall of the slain, Valhalla, ruled over by the god Odin, where the deceased warriors become einherjar. There, when the einherjar are not preparing for the events of Ragnarök, the valkyries bear them mead. Valkyries also appear as lovers of heroes and other mortals, where they are sometimes described as the daughters of royalty, sometimes accompanied by ravens, and sometimes connected to swans.</information>
+  <skilltree>
+    <skill>
+      <name>Bufu</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Cleave</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Media</name>
+      <learned>10</learned>
+    </skill>
+    <skill>
+      <name>Arm Chopper</name>
+      <learned>11</learned>
+    </skill>
+    <skill>
+      <name>Mabufu</name>
+      <learned>12</learned>
+    </skill>
+  </skilltree>
+</persona>
+

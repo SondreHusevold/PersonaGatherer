@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Oberon</name>
+    <level>12</level>
+    <arcana>Emperor</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>10</strength>
+    <magic>12</magic>
+    <endurance>8</endurance>
+    <agility>8</agility>
+    <luck>5</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>Fire</resist>
+    <block>Electricity</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>The King of the Fairies and the husband of Titania, the Fairy Queen. He rules over moonlight, dreams, and all fairy rites. He first became widely known when he appeared as a character in Shakespeare’s "A Midsummer Night’s Dream, but appeared earlier in the 13th century French epic "Huon of Bordeaux". In some stories, specifically in "Huon of Bordeaux", it is said that he is the son of Morgan le Fey and Julius Caesar, believed to have been born sometimes after Caesar’s defeat of Pompey.</information>
+  <skilltree>
+    <skill>
+      <name>Zio</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Arm Chopper</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Makajam</name>
+      <learned>13</learned>
+    </skill>
+    <skill>
+      <name>Media</name>
+      <learned>14</learned>
+    </skill>
+    <skill>
+      <name>Elec Boost</name>
+      <learned>15</learned>
+    </skill>
+    <skill>
+      <name>Mazio</name>
+      <learned>16</learned>
+    </skill>
+    <skill>
+      <name>Dodge Wind</name>
+      <learned>17</learned>
+    </skill>
+  </skilltree>
+</persona>
+

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Yatagarasu</name>
+    <level>40</level>
+    <arcana>Sun</arcana>
+    <alignment>Lawful Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>28</strength>
+    <magic>27</magic>
+    <endurance>22</endurance>
+    <agility>31</agility>
+    <luck>19</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Support</inherit>
+    <resist>Wind</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>In Japanese mythology, Yatagarasu has the appearance of the great bird and represents the will of Heaven or divine intervention in human affairs. Although Yatagarasu is mentioned in a number of places in the Shintō canon, there is very little explanation, and much of the material is contradictory. This great crow was sent from heaven as a guide for Emperor Jimmu on his initial journey from the region which would become Kumano to what would become Yamato. It is generally accepted that Yatagarasu is an incarnation of Taketsunimi, but none of the early surviving documentary records are quite so specific. None of the sources mention about it having three legs either, and it may have been influenced by the Chinese sun bird Huoniao.</information>
+  <skilltree>
+    <skill>
+      <name>Masukukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Nervundi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Agilao</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Null Fear</name>
+      <learned>43</learned>
+    </skill>
+    <skill>
+      <name>Growth 2</name>
+      <learned>44</learned>
+    </skill>
+    <skill>
+      <name>Diarahan</name>
+      <learned>45</learned>
+    </skill>
+    <skill>
+      <name>Cool Breeze</name>
+      <learned>46</learned>
+    </skill>
+  </skilltree>
+</persona>
+

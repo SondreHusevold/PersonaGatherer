@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Throne</name>
+    <level>49</level>
+    <arcana>Justice</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>37</strength>
+    <magic>30</magic>
+    <endurance>24</endurance>
+    <agility>37</agility>
+    <luck>26</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>-</resist>
+    <block>Light</block>
+    <absorb>Fire</absorb>
+    <reflect>-</reflect>
+    <weakness>Dark</weakness>
+  </elemental_properties>
+  <information>The third of nine classes of angels, they are angels of knowledge. The Thrones or Elders, also known as the Erelim or Ophanim, are a class of celestial beings mentioned by Paul of Tarsus in Colossians 1:16 (New Testament) and related to the throne of God. They are living symbols of God's justice and authority. They come the closest of all Angels to spiritual perfection and emanate the light of God with mirror-like goodness. They, despite their greatness, are intensely humble, an attribute that allows them to dispense justice with perfect objectivity and without fear of pride or ambition. Because they are living symbols of God's justice and authority, they are called Thrones and have as one of their symbols the throne. In contrast to their appearance, Ezekiel 1:15 describes Thrones as eye covered wheels, rather than humanoids.</information>
+  <skilltree>
+    <skill>
+      <name>Hamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Agidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Hama Boost</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>51</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 2</name>
+      <learned>53</learned>
+    </skill>
+    <skill>
+      <name>Resist Dark</name>
+      <learned>54</learned>
+    </skill>
+    <skill>
+      <name>Endure Dark</name>
+      <learned>55</learned>
+    </skill>
+  </skilltree>
+</persona>
+

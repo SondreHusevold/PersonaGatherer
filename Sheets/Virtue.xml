@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Virtue</name>
+    <level>33</level>
+    <arcana>Justice</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>22</strength>
+    <magic>29</magic>
+    <endurance>21</endurance>
+    <agility>19</agility>
+    <luck>15</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>-</resist>
+    <block>Electricity, Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice, Darkness</weakness>
+  </elemental_properties>
+  <information>In the Christian hierarchy of angels, Virtues are part of the second sphere and watch over the movement of the heavenly bodies so that order is maintained. They are also said to be the fifth rank of angel (possibly referring to Maimonides' hierarchy, where they would be equivalent to the Jewish definition of Seraphim), and apparently are responsible for the distribution of miracles.</information>
+  <skilltree>
+    <skill>
+      <name>Mahama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Garula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Posumudi</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Fatal End</name>
+      <learned>35</learned>
+    </skill>
+    <skill>
+      <name>Blue Wall</name>
+      <learned>37</learned>
+    </skill>
+    <skill>
+      <name>Hama Boost</name>
+      <learned>38</learned>
+    </skill>
+    <skill>
+      <name>Resist Dark</name>
+      <learned>39</learned>
+    </skill>
+  </skilltree>
+</persona>
+

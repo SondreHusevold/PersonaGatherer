@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Pyro Jack</name>
+    <level>32</level>
+    <arcana>Magician</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>16</strength>
+    <magic>26</magic>
+    <endurance>19</endurance>
+    <agility>22</agility>
+    <luck>20</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Fire</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>It is named in Japan after the fabled figure Jack-O'-Lantern. According to the earliest accounts of the tale, "Stingy Jack" was an Irish farmer who persuaded the Devil not to take him to hell. When he was refused entry into heaven, he wandered the earth as a turnip-headed (or pumpkin-headed) soul who would come to be called "Jack of the Lantern" - or so says the legend. Jack-o'-lanterns are carved by children and enthusiasts alike on Halloween, though the tradition of carving gourds dates back probably to the dawn of mankind, and is not endemic to any particular culture. The tradition can also be thought to help guide the lost soul himself.</information>
+  <skilltree>
+    <skill>
+      <name>Agilao</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tarunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Marakukaja</name>
+      <learned>34</learned>
+    </skill>
+    <skill>
+      <name>Maragion</name>
+      <learned>36</learned>
+    </skill>
+    <skill>
+      <name>Auto-Rakukaja</name>
+      <learned>37</learned>
+    </skill>
+    <skill>
+      <name>Resist Ice</name>
+      <learned>38</learned>
+    </skill>
+  </skilltree>
+</persona>
+

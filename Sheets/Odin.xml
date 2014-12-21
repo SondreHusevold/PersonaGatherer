@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Odin</name>
+    <level>74</level>
+    <arcana>Emperor</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>48</strength>
+    <magic>60</magic>
+    <endurance>42</endurance>
+    <agility>39</agility>
+    <luck>43</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Elec</inherit>
+    <resist>-</resist>
+    <block>Elec</block>
+    <absorb>Wind</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>Odin, meaning The Furious, is considered the chief god in Norse mythology. He is associated with wisdom, war, battle and death and also magic, poetry, prophecy, victory and the hunt.</information>
+  <skilltree>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Magarudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Wind Amp</name>
+      <learned>76</learned>
+    </skill>
+    <skill>
+      <name>Regenerate 3</name>
+      <learned>77</learned>
+    </skill>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>78</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>80</learned>
+    </skill>
+    <skill>
+      <name>Panta Rhei</name>
+      <learned>81</learned>
+    </skill>
+  </skilltree>
+</persona>
+

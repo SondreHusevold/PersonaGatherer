@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Izanagi</name>
+    <level>1</level>
+    <arcana>Fool</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>3</strength>
+    <magic>2</magic>
+    <endurance>2</endurance>
+    <agility>3</agility>
+    <luck>2</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Elec</inherit>
+    <resist>Electricity</resist>
+    <block>Dark</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>Izanagi (伊弉諾) is a Japanese creation deity born of the seven divine generations in Japanese mythology. He is also referred to in various chronicles such as the Kojiki and Nihon Shiki as Izanagi-no-mikoto (伊弉諾尊), the "male-who-invites". He and Izanami created many of the islands and deities of Japan. When Izanami died, Izanagi tried to retrieve her from the underworld, but failed. He mistakenly looks at her while she's in a rotting, monstrous state in the underworld, which shames her. She attempts to kill him, and swears to kill a thousand of his men a day. Izanagi claims that he will make sure that a thousand and five hundred will be born each day.</information>
+  <skilltree>
+    <skill>
+      <name>Zio</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Cleave</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Rakunda</name>
+      <learned>3</learned>
+    </skill>
+    <skill>
+      <name>Tarukaja</name>
+      <learned>5</learned>
+    </skill>
+  </skilltree>
+</persona>
+

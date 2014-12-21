@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Thor</name>
+    <level>65</level>
+    <arcana>Chariot</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>43</strength>
+    <magic>39</magic>
+    <endurance>53</endurance>
+    <agility>32</agility>
+    <luck>35</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>Physical</resist>
+    <block>-</block>
+    <absorb>Electricity</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>Thor is the red-haired son of Odin and god of thunder in Germanic mythology and Germanic paganism. His belt Mejingjard doubles his strength and lightning flashes every time he throws his trusty hammer, Mjölnir.</information>
+  <skilltree>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Deathbound</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Arms Master</name>
+      <learned>67</learned>
+    </skill>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>68</learned>
+    </skill>
+    <skill>
+      <name>Null Physical</name>
+      <learned>69</learned>
+    </skill>
+    <skill>
+      <name>Thunder Reign</name>
+      <learned>70</learned>
+    </skill>
+  </skilltree>
+</persona>
+

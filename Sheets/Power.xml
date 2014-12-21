@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Power</name>
+    <level>27</level>
+    <arcana>Justice</arcana>
+    <alignment>Lawful Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>21</strength>
+    <magic>20</magic>
+    <endurance>11</endurance>
+    <agility>17</agility>
+    <luck>19</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>Fire</resist>
+    <block>Wind</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity, Darkness</weakness>
+  </elemental_properties>
+  <information>The sixth of the nine orders of angels, also said to be called Authorities. It is said that they were the first order to be created. The Powers are the bearers of conscience and the keepers of history. They are academically driven and are concerned with ideology, philosophy, theology, religion, and documents pertaining to those studies. Powers are the brain trusts; a group of experts who serve as advisers and policy planners. They are also the warrior angels created to be completely loyal to God. Some believe that no Power has ever fallen from grace, but another theory states that Satan was the Chief of the Powers before he Fell (see also Ephesians 6:12). Their duty is to oversee the distribution of power among humankind, hence their name.</information>
+  <skilltree>
+    <skill>
+      <name>Hama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Tentarafoo</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mahama</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Zionga</name>
+      <learned>29</learned>
+    </skill>
+    <skill>
+      <name>Power Slash</name>
+      <learned>30</learned>
+    </skill>
+    <skill>
+      <name>Hama Boost</name>
+      <learned>31</learned>
+    </skill>
+    <skill>
+      <name>Survive Dark</name>
+      <learned>32</learned>
+    </skill>
+    <skill>
+      <name>Null Confuse</name>
+      <learned>33</learned>
+    </skill>
+  </skilltree>
+</persona>
+

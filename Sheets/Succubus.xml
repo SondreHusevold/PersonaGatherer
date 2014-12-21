@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Succubus</name>
+    <level>44</level>
+    <arcana>Devil</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>22</strength>
+    <magic>33</magic>
+    <endurance>28</endurance>
+    <agility>32</agility>
+    <luck>27</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ailment</inherit>
+    <resist>-</resist>
+    <block>Darkness</block>
+    <absorb>-</absorb>
+    <reflect>Fire</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>A demon from European folklore during the medieval ages, which takes the form of an attractive female to seduce men. Its male counterpart is the Incubus. They draw energy from men to sustain themselves, often until the point of exhaustion or death of the victim. Lilith and her daughters, the Lilim, are considered succubi.</information>
+  <skilltree>
+    <skill>
+      <name>Agilao</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mudoon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Maragion</name>
+      <learned>46</learned>
+    </skill>
+    <skill>
+      <name>Mudo Boost</name>
+      <learned>47</learned>
+    </skill>
+    <skill>
+      <name>Spirit Drain</name>
+      <learned>48</learned>
+    </skill>
+    <skill>
+      <name>Resist Light</name>
+      <learned>49</learned>
+    </skill>
+    <skill>
+      <name>Invigorate 3</name>
+      <learned>50</learned>
+    </skill>
+  </skilltree>
+</persona>
+

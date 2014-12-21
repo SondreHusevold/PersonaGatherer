@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Atropos</name>
+    <level>65</level>
+    <arcana>Fortune</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>36</strength>
+    <magic>48</magic>
+    <endurance>36</endurance>
+    <agility>37</agility>
+    <luck>45</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>-</resist>
+    <block>Wind</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Fire</weakness>
+  </elemental_properties>
+  <information>The eldest of the three Moirae sisters, Atropos is the one who cuts the thread of fate, signifying the end of one's life.</information>
+  <skilltree>
+    <skill>
+      <name>Garudyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Wind Boost</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>67</learned>
+    </skill>
+    <skill>
+      <name>Magarudyne</name>
+      <learned>68</learned>
+    </skill>
+    <skill>
+      <name>Evade Fire</name>
+      <learned>69</learned>
+    </skill>
+    <skill>
+      <name>Wind Amp</name>
+      <learned>70</learned>
+    </skill>
+  </skilltree>
+</persona>
+

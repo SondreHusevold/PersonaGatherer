@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Kohryu</name>
+    <level>76</level>
+    <arcana>Hierophant</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>50</strength>
+    <magic>53</magic>
+    <endurance>54</endurance>
+    <agility>40</agility>
+    <luck>38</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Electricity</inherit>
+    <resist>-</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>Electricity</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>Literally means Yellow Dragon (黃龍). It reigns over the Si Xiang - celestial creatures in Chinese constellation - namely, Baihu, Xuanwu, Qinglong, and Zhuque - and is located in the center of the four beasts. Huanglong is sometimes regarded the same as Qilin from the Si Ling. It is the embodiment of the element of Earth in Chinese five elements (Wu Xing).</information>
+  <skilltree>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mediarahan</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Samarecarm</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Maziodyne</name>
+      <learned>78</learned>
+    </skill>
+    <skill>
+      <name>Mind Charge</name>
+      <learned>79</learned>
+    </skill>
+    <skill>
+      <name>Elec Amp</name>
+      <learned>80</learned>
+    </skill>
+    <skill>
+      <name>Spell Master</name>
+      <learned>82</learned>
+    </skill>
+    <skill>
+      <name>Salvation</name>
+      <learned>83</learned>
+    </skill>
+  </skilltree>
+</persona>
+

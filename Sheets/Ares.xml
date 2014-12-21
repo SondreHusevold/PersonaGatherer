@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Ares</name>
+    <level>25</level>
+    <arcana>Chariot</arcana>
+    <alignment>Chaotic Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>18</strength>
+    <magic>15</magic>
+    <endurance>20</endurance>
+    <agility>15</agility>
+    <luck>14</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Physical</inherit>
+    <resist>Physical</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>Ares was the god of war in Greek mythology. He is one of the twelve Olympians and the son of Zeus and Hera. He often represents the physical or violent aspect of war, in contrast with Athena, who function as a goddess of intelligence include military strategy and generalship.</information>
+  <skilltree>
+    <skill>
+      <name>Gale Slash</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Counter</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Dodge Wind</name>
+      <learned>27</learned>
+    </skill>
+    <skill>
+      <name>Rampage</name>
+      <learned>28</learned>
+    </skill>
+    <skill>
+      <name>Dekaja</name>
+      <learned>29</learned>
+    </skill>
+    <skill>
+      <name>Power Charge</name>
+      <learned>30</learned>
+    </skill>
+  </skilltree>
+</persona>
+

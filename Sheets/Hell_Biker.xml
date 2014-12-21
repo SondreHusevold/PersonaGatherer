@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Hell Biker</name>
+    <level>66</level>
+    <arcana>Hanged Man</arcana>
+    <alignment>Lawful Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>49</strength>
+    <magic>40</magic>
+    <endurance>40</endurance>
+    <agility>48</agility>
+    <luck>28</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>Fire</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>"A motorcyclist whose violent nature turned him into a demon. His anger at himself and the world causes him to lash out, so that everyone else will suffer as well."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Agidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Aeon Rain</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Endure</name>
+      <learned>68</learned>
+    </skill>
+    <skill>
+      <name>Mudoon</name>
+      <learned>69</learned>
+    </skill>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>70</learned>
+    </skill>
+    <skill>
+      <name>Absorb Fire</name>
+      <learned>71</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>73</learned>
+    </skill>
+  </skilltree>
+</persona>
+

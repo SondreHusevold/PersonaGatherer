@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Saki Mitama</name>
+    <level>11</level>
+    <arcana>Priestess</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>5</strength>
+    <magic>12</magic>
+    <endurance>5</endurance>
+    <agility>8</agility>
+    <luck>10</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Recovery</inherit>
+    <resist>Ice</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>"One of the four great aspects of Shinto thought, it brings great bounty from the hunt. It is said to aid in love, profit, and growth, and can create new paths."
+—Compendium Data</information>
+  <skilltree>
+    <skill>
+      <name>Dia</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Bufu</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Sukunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Alertness</name>
+      <learned>13</learned>
+    </skill>
+    <skill>
+      <name>Media</name>
+      <learned>14</learned>
+    </skill>
+    <skill>
+      <name>Null Rage</name>
+      <learned>16</learned>
+    </skill>
+  </skilltree>
+</persona>
+

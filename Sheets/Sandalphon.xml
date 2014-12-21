@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Sandalphon</name>
+    <level>84</level>
+    <arcana>Moon</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>56</strength>
+    <magic>61</magic>
+    <endurance>46</endurance>
+    <agility>47</agility>
+    <luck>49</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>None</resist>
+    <block>Wind</block>
+    <absorb>N/A</absorb>
+    <reflect>Light</reflect>
+    <weakness>Dark</weakness>
+  </elemental_properties>
+  <information>"Metatron's twin brother in Judeo-Christian lore. He is the master of heavenly songs. It's said that a human would take 500 years to walk the length of his body."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Mahamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Samarecarm</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Amrita</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Angelic Grace</name>
+      <learned>87</learned>
+    </skill>
+    <skill>
+      <name>Agneyastra</name>
+      <learned>88</learned>
+    </skill>
+    <skill>
+      <name>Endure Dark</name>
+      <learned>89</learned>
+    </skill>
+    <skill>
+      <name>Repel Dark</name>
+      <learned>90</learned>
+    </skill>
+  </skilltree>
+</persona>
+

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Surt</name>
+    <level>69</level>
+    <arcana>Magician</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>41</strength>
+    <magic>54</magic>
+    <endurance>39</endurance>
+    <agility>40</agility>
+    <luck>40</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>Wind</block>
+    <absorb>-</absorb>
+    <reflect>Fire</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>In Norse mythology Surt rules the land of fire, Muspelheim, guarding the entrance of this realm with his shining sword (Laevateinn) that is said to be brighter than the sun. It is also said to be the creator and the destroyer, as the fires of his realm created the stars of the heavens, and later during Ragnarok, it will rain down fire unto all land.</information>
+  <skilltree>
+    <skill>
+      <name>Agidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Deathbound</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>71</learned>
+    </skill>
+    <skill>
+      <name>Ragnarok</name>
+      <learned>74</learned>
+    </skill>
+    <skill>
+      <name>Fire Amp</name>
+      <learned>75</learned>
+    </skill>
+    <skill>
+      <name>Null Ice</name>
+      <learned>76</learned>
+    </skill>
+  </skilltree>
+</persona>
+

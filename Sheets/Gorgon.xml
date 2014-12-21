@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Gorgon</name>
+    <level>34</level>
+    <arcana>Empress</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>20</strength>
+    <magic>21</magic>
+    <endurance>25</endurance>
+    <agility>24</agility>
+    <luck>19</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Ice</inherit>
+    <resist>-</resist>
+    <block>Ice</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Light</weakness>
+  </elemental_properties>
+  <information>Gorgon is a female monster originating from Greek lore. It was said that their hair was made of snakes, and looking upon them turned one to stone. The Greeks believed there were three gorgon sisters, with Medusa being the only one who was mortal. In the past, the image of gorgons would be put on buildings as a form of protection.</information>
+  <skilltree>
+    <skill>
+      <name>Bufula</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Me Patra</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Crazy Chain</name>
+      <learned>35</learned>
+    </skill>
+    <skill>
+      <name>Null Confuse</name>
+      <learned>36</learned>
+    </skill>
+    <skill>
+      <name>Mabufula</name>
+      <learned>38</learned>
+    </skill>
+    <skill>
+      <name>Ice Boost</name>
+      <learned>39</learned>
+    </skill>
+  </skilltree>
+</persona>
+

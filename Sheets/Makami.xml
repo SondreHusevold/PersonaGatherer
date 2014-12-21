@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Makami</name>
+    <level>27</level>
+    <arcana>Hanged Man</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>16</strength>
+    <magic>21</magic>
+    <endurance>13</endurance>
+    <agility>22</agility>
+    <luck>16</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>Wind</resist>
+    <block>Fire, Darkness</block>
+    <absorb>None</absorb>
+    <reflect>None</reflect>
+    <weakness>Ice, Light</weakness>
+  </elemental_properties>
+  <information>Shin Megami Tensei III: Nocturne: Avatar Race
+Shin Megami Tensei IMAGINE: Godly Beast Race
+Shin Megami Tensei: Strange Journey: Avatar Race
+Shin Megami Tensei IV: Avatar Race
+Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon: Volt Order
+Devil Summoner: Raidou Kuzunoha vs. The Lone Marebito
+Persona 4 / Golden: Hanged Man Arcana
+Persona 4: The Animation</information>
+  <skilltree>
+    <skill>
+      <name>Agilao</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Sukunda</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Auto-Sukukaja</name>
+      <learned>29</learned>
+    </skill>
+    <skill>
+      <name>Diarama</name>
+      <learned>30</learned>
+    </skill>
+    <skill>
+      <name>Resist Mute</name>
+      <learned>31</learned>
+    </skill>
+    <skill>
+      <name>Dodge Physical</name>
+      <learned>32</learned>
+    </skill>
+    <skill>
+      <name>Resist Ice</name>
+      <learned>33</learned>
+    </skill>
+  </skilltree>
+</persona>
+

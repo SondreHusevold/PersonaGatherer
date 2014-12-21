@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Vasuki</name>
+    <level>71</level>
+    <arcana>Hanged Man</arcana>
+    <alignment>INVALID ALIGNMENT</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>48</strength>
+    <magic>47</magic>
+    <endurance>50</endurance>
+    <agility>40</agility>
+    <luck>35</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>Ice</resist>
+    <block>Electricity</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Darkness</weakness>
+  </elemental_properties>
+  <information>In the legend of the churning of the milk ocean, Vasuki allowed the Devas and Asuras to bind him to Mount Mandar to use him to churn the Amrita, the nectar of immortality. This happens after the devas and the asuras agree to join forces in order to gain the Amrita. It is also said that Vishnu tricked the asuras into holding Vasuki by its heads, so that they could inhale its hot breath. However, as the milk ocean was churned up, a poison seeped out which threatened the world. So Shiva swallowed the venom as an act of self-sacrifice to prevent premature destruction of the world, thus earning him the title of Nilakantha ("blue throat"). He has a sister called Manasa, who is a goddess of snakes and poison.</information>
+  <skilltree>
+    <skill>
+      <name>Hamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Virus Wave</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Null Poison</name>
+      <learned>73</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>74</learned>
+    </skill>
+    <skill>
+      <name>Evade Wind</name>
+      <learned>75</learned>
+    </skill>
+    <skill>
+      <name>Mahamaon</name>
+      <learned>76</learned>
+    </skill>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>77</learned>
+    </skill>
+  </skilltree>
+</persona>
+

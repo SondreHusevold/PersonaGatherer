@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Jinn</name>
+    <level>62</level>
+    <arcana>Magician</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>37</strength>
+    <magic>51</magic>
+    <endurance>38</endurance>
+    <agility>39</agility>
+    <luck>28</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>-</block>
+    <absorb>Fire</absorb>
+    <reflect>-</reflect>
+    <weakness>Lightning</weakness>
+  </elemental_properties>
+  <information>In Islam and pre-Islamic Arabian folklore, a djinn (genie) is a supernatural fiery creature which possesses free will. Djinn are mentioned in the Qur'an, wherein a whole Sura is named after them. They can be either good or evil. In some cases, evil genies are said to lead humans astray.</information>
+  <skilltree>
+    <skill>
+      <name>Agidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Foolish Whisper</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Resist Physical</name>
+      <learned>65</learned>
+    </skill>
+    <skill>
+      <name>Fire Boost</name>
+      <learned>66</learned>
+    </skill>
+    <skill>
+      <name>Null Physical</name>
+      <learned>67</learned>
+    </skill>
+    <skill>
+      <name>Valiant Dance</name>
+      <learned>68</learned>
+    </skill>
+  </skilltree>
+</persona>
+

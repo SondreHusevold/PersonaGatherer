@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Anubis</name>
+    <level>59</level>
+    <arcana>Judgement</arcana>
+    <alignment>Neutral Good</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>38</strength>
+    <magic>41</magic>
+    <endurance>37</endurance>
+    <agility>37</agility>
+    <luck>31</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Light</inherit>
+    <resist>-</resist>
+    <block>Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>Anubis is widely known as the Egyptian deity of mummification. In this role, he oversees the mummification process of the dead, and is usually seen in hieroglyphic tomb-carvings as overseeing the burial ritual for the pharaohs and those of royal lineage - this is due to the priest involved wearing the masks of Anubis to symbolize him as the overseer of the ritual.</information>
+  <skilltree>
+    <skill>
+      <name>Hamaon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Makarakarn</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mudoon</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Poison Arrow</name>
+      <learned>60</learned>
+    </skill>
+    <skill>
+      <name>Mustard Bomb</name>
+      <learned>61</learned>
+    </skill>
+    <skill>
+      <name>Megidola</name>
+      <learned>62</learned>
+    </skill>
+    <skill>
+      <name>Mahamaon</name>
+      <learned>64</learned>
+    </skill>
+    <skill>
+      <name>Hama Boost</name>
+      <learned>65</learned>
+    </skill>
+  </skilltree>
+</persona>
+

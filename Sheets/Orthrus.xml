@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Orthrus</name>
+    <level>39</level>
+    <arcana>Hanged Man</arcana>
+    <alignment>True Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>34</strength>
+    <magic>21</magic>
+    <endurance>28</endurance>
+    <agility>23</agility>
+    <luck>18</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>-</resist>
+    <block>Fire</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Ice</weakness>
+  </elemental_properties>
+  <information>In Greek mythology, Orthrus was a two-headed dog and one of the many monsters sired by Typhon and Echidna, among his siblings were Cerberus, Sphinx, and Chimera to name but a few. Orthrus was the dog of the Titan, Geryon, and along with Eurytion was the guardian of Geryon's herd of red cattle. Geryon, Eurytion, and Orthrus were all slain when Hercules ('Heracles' in Greek mythology) was completing the tenth of his twelve labors.</information>
+  <skilltree>
+    <skill>
+      <name>Agilao</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Black Spot</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Marakukaja</name>
+      <learned>41</learned>
+    </skill>
+    <skill>
+      <name>Fire Boost</name>
+      <learned>42</learned>
+    </skill>
+    <skill>
+      <name>Maragion</name>
+      <learned>44</learned>
+    </skill>
+    <skill>
+      <name>Null Ice</name>
+      <learned>45</learned>
+    </skill>
+  </skilltree>
+</persona>
+

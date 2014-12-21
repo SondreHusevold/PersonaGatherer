@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Sandman</name>
+    <level>5</level>
+    <arcana>Strength</arcana>
+    <alignment>Chaotic Neutral</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>4</strength>
+    <magic>5</magic>
+    <endurance>6</endurance>
+    <agility>4</agility>
+    <luck>3</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Wind</inherit>
+    <resist>Wind</resist>
+    <block>-</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Electricity</weakness>
+  </elemental_properties>
+  <information>Originating from Northern European lore, he brings good dreams by sprinkling magical sand onto the eyes of children while they sleep at night. The rheum in one's eyes upon waking is believed to be the result of the Sandman's work the previous evening.</information>
+  <skilltree>
+    <skill>
+      <name>Garu</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Pulinpa</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Skull Cracker</name>
+      <learned>6</learned>
+    </skill>
+    <skill>
+      <name>Confuse Boost</name>
+      <learned>7</learned>
+    </skill>
+    <skill>
+      <name>Dekaja</name>
+      <learned>8</learned>
+    </skill>
+    <skill>
+      <name>Traesto</name>
+      <learned>11</learned>
+    </skill>
+  </skilltree>
+</persona>
+

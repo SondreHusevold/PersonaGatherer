@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Asura</name>
+    <level>86</level>
+    <arcana>Sun</arcana>
+    <alignment>Chaotic Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>59</strength>
+    <magic>57</magic>
+    <endurance>51</endurance>
+    <agility>50</agility>
+    <luck>48</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Fire</inherit>
+    <resist>Ice</resist>
+    <block>Fire, Light</block>
+    <absorb>-</absorb>
+    <reflect>-</reflect>
+    <weakness>Wind</weakness>
+  </elemental_properties>
+  <information>Asuras are entities that take on varying roles in the Asian religions.</information>
+  <skilltree>
+    <skill>
+      <name>Maragidyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Primal Force</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Marakukaja</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Mahamaon</name>
+      <learned>88</learned>
+    </skill>
+    <skill>
+      <name>High Counter</name>
+      <learned>89</learned>
+    </skill>
+    <skill>
+      <name>Spell Master</name>
+      <learned>90</learned>
+    </skill>
+    <skill>
+      <name>Unshaken Will</name>
+      <learned>92</learned>
+    </skill>
+  </skilltree>
+</persona>
+

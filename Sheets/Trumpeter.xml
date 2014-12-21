@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<persona>
+  <basic_stats>
+    <name>Trumpeter</name>
+    <level>67</level>
+    <arcana>Judgement</arcana>
+    <alignment>Neutral Evil</alignment>
+  </basic_stats>
+  <basic_attributes>
+    <strength>40</strength>
+    <magic>47</magic>
+    <endurance>39</endurance>
+    <agility>45</agility>
+    <luck>37</luck>
+  </basic_attributes>
+  <elemental_properties>
+    <inherit>Almighty</inherit>
+    <resist>-</resist>
+    <block>Dark</block>
+    <absorb>Ice</absorb>
+    <reflect>Elec/Light</reflect>
+    <weakness>-</weakness>
+  </elemental_properties>
+  <information>"Angel said to sound the trumpets at the apocalypse. Each trumpet brings more plagues and disasters, turning earth into a land of death and suffering."
+—Compendium Info</information>
+  <skilltree>
+    <skill>
+      <name>Megidola</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Ziodyne</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Elec Amp</name>
+      <learned>Innate</learned>
+    </skill>
+    <skill>
+      <name>Marakukaja</name>
+      <learned>68</learned>
+    </skill>
+    <skill>
+      <name>Cool Breeze</name>
+      <learned>69</learned>
+    </skill>
+    <skill>
+      <name>Megidolaon</name>
+      <learned>70</learned>
+    </skill>
+    <skill>
+      <name>Debilitate</name>
+      <learned>73</learned>
+    </skill>
+    <skill>
+      <name>Heat Riser</name>
+      <learned>74</learned>
+    </skill>
+  </skilltree>
+</persona>
+
