@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Mighty Swing</name>
+  <effect>Deals medium Phys damage to 1 foe.</effect>
+  <power>270</power>
+  <accuracy>90</accuracy>
+  <critical>30</critical>
+  <cost>14% HP</cost>
+</skill>

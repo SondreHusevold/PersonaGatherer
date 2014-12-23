@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Bufu</name>
+  <effect>Deals light Ice damage to 1 foe.</effect>
+  <power>80</power>
+  <accuracy>98</accuracy>
+  <critical>-</critical>
+  <cost>4 SP</cost>
+</skill>

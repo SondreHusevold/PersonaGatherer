@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Rebellion</name>
+  <effect>Increases Critical rate for 3 turns (1 ally).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>5 SP</cost>
+</skill>

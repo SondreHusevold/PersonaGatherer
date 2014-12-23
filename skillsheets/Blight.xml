@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Blight</name>
+  <effect>Deals heavy Phys damage to all foes with a chance of Poison.</effect>
+  <power>260</power>
+  <accuracy>80</accuracy>
+  <critical>5</critical>
+  <cost>16% HP</cost>
+</skill>

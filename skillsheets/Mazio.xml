@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Mazio</name>
+  <effect>Deals light Elec damage to all foes.</effect>
+  <power>80</power>
+  <accuracy>95</accuracy>
+  <critical>-</critical>
+  <cost>10 SP</cost>
+</skill>

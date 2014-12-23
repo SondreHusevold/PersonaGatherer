@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Panta Rhei</name>
+  <effect>Deals severe Wind damage to 1 foe.</effect>
+  <power>400</power>
+  <accuracy>98</accuracy>
+  <critical>-</critical>
+  <cost>48 SP</cost>
+</skill>

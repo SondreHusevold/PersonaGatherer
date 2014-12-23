@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Mamudo</name>
+  <effect>30% chance of instant death from the power of Darkness to all foes.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>18 SP</cost>
+</skill>

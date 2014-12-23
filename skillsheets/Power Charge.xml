@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Power Charge</name>
+  <effect>The next Phys or Almighty Phys attack is increased by 2.5x.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>15 SP</cost>
+</skill>

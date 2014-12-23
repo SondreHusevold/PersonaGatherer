@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Salvation</name>
+  <effect>Fully restores party's HP. Cures ailments.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>40 SP</cost>
+</skill>

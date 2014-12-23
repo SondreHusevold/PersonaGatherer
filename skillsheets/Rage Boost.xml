@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Rage Boost</name>
+  <effect>Increases odds of inflicting Rage (1.5x).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>Passive</cost>
+</skill>

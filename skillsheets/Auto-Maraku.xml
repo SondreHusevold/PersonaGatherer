@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Auto-Maraku</name>
+  <effect>Begin the battle with Marakukaja cast on all allies (overwrites Auto-Rakukaja).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>Passive</cost>
+</skill>

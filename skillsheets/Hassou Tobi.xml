@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Hassou Tobi</name>
+  <effect>Deals light Phys damage to all foes eight times.</effect>
+  <power>120</power>
+  <accuracy>75</accuracy>
+  <critical>5</critical>
+  <cost>25% HP</cost>
+</skill>

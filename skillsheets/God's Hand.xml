@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>God's Hand</name>
+  <effect>Deals severe Phys damage to 1 foe.</effect>
+  <power>1600</power>
+  <accuracy>90</accuracy>
+  <critical>15</critical>
+  <cost>22% HP</cost>
+</skill>

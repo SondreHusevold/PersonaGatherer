@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Tetraja</name>
+  <effect>Protects 1 ally from an instant death attack once.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>24 SP</cost>
+</skill>

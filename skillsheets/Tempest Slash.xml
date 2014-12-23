@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Tempest Slash</name>
+  <effect>Deals heavy Phys damage to 1 foe (up to 2x).</effect>
+  <power>180</power>
+  <accuracy>85</accuracy>
+  <critical>10</critical>
+  <cost>15% HP</cost>
+</skill>

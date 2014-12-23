@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Morning Star</name>
+  <effect>Deals massive Almighty damage to all foes.</effect>
+  <power>440</power>
+  <accuracy>95</accuracy>
+  <critical>-</critical>
+  <cost>72 SP</cost>
+</skill>

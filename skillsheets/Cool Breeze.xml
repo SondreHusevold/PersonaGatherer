@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Cool Breeze</name>
+  <effect>Recovers 8% HP and SP after a successful battle.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>Passive</cost>
+</skill>

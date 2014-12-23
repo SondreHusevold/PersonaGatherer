@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Growth 3</name>
+  <effect>Persona gains full EXP even while inactive (overwrites Growth 1 and 2).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>Passive</cost>
+</skill>

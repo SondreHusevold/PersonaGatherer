@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Repel Elec</name>
+  <effect>Repels Elec attacks (overwrites Resist and Null Elec).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>Passive</cost>
+</skill>

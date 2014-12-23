@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Herculean Strike</name>
+  <effect>Deals medium Phys damage to all foes.</effect>
+  <power>180</power>
+  <accuracy>80</accuracy>
+  <critical>5</critical>
+  <cost>16% HP</cost>
+</skill>

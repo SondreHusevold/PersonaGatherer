@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Hell's Judgment</name>
+  <effect>Decreases 1 foe's HP by 50% from the power of Darkness.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>54 SP</cost>
+</skill>

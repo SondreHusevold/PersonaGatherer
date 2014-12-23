@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Black Viper</name>
+  <effect>Deals massive Almighty damage to 1 foe.</effect>
+  <power>440</power>
+  <accuracy>98</accuracy>
+  <critical>-</critical>
+  <cost>64 SP</cost>
+</skill>

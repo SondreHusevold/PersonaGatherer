@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Die for Me!</name>
+  <effect>Dark: very high chance of instant kill, all foes. (60% chance)</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>44 SP</cost>
+</skill>

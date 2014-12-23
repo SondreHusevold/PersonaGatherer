@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Blade of Fury</name>
+  <effect>Deals medium Phys damage to all foes (up to 2x to 4x).</effect>
+  <power>100</power>
+  <accuracy>90</accuracy>
+  <critical>5</critical>
+  <cost>18% HP</cost>
+</skill>

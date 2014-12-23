@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Poison Arrow</name>
+  <effect>Deals medium Phys damage to 1 foe with a chance of Poison.</effect>
+  <power>260</power>
+  <accuracy>85</accuracy>
+  <critical>5</critical>
+  <cost>14% HP</cost>
+</skill>

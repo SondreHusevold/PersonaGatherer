@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Hysterical Slap</name>
+  <effect>Deals light Phys damage to 1 foe with a chance of Rage.</effect>
+  <power>100</power>
+  <accuracy>90</accuracy>
+  <critical>5</critical>
+  <cost>9% HP</cost>
+</skill>

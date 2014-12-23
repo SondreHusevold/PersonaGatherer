@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Vicious Strike</name>
+  <effect>Deals heavy Phys damage to all foes.</effect>
+  <power>280</power>
+  <accuracy>90</accuracy>
+  <critical>5</critical>
+  <cost>18% HP</cost>
+</skill>

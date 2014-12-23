@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Masukunda</name>
+  <effect>Decreases all foes' Hit/Evasion rates for 3 turns.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>24 SP</cost>
+</skill>

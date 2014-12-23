@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Energy Shower</name>
+  <effect>Cures Exhaustion and Enervation (party).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>18 SP</cost>
+</skill>

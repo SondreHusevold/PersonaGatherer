@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Debilitate</name>
+  <effect>Decreases 1 foe's Attack, Defense and Hit/Evasion rates for 3 turns.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>30 SP</cost>
+</skill>

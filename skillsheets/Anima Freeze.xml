@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Anima Freeze</name>
+  <effect>Inflict Exhaustion to all foes. (30% chance)</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>12 SP</cost>
+</skill>

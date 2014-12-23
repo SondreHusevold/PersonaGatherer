@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Auto-Masuku</name>
+  <effect>Begin the battle with Masukukaja cast on all allies (overwrites Auto-Sukukaja).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>Passive</cost>
+</skill>

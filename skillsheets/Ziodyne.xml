@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Ziodyne</name>
+  <effect>Deals heavy Elec damage to 1 foe.</effect>
+  <power>320</power>
+  <accuracy>98</accuracy>
+  <critical>-</critical>
+  <cost>12 SP</cost>
+</skill>

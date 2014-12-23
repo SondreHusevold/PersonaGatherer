@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Auto-Mataru</name>
+  <effect>Begin the battle with Matarukaja cast on all allies (overwrites Auto-Tarukaja).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>Passive</cost>
+</skill>

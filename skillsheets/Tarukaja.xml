@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Tarukaja</name>
+  <effect>Increases 1 ally's Attack for 3 turns.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>12 SP</cost>
+</skill>

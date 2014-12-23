@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Tetrakarn</name>
+  <effect>Repels a single Phys attack for 1 ally.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>36 SP</cost>
+</skill>

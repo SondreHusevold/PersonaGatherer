@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Fatal End</name>
+  <effect>Deals medium Phys damage to 1 foe.</effect>
+  <power>250</power>
+  <accuracy>90</accuracy>
+  <critical>20</critical>
+  <cost>14% HP</cost>
+</skill>

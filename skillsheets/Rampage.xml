@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Rampage</name>
+  <effect>Deals light Phys damage to all foes (up to 3x).</effect>
+  <power>80</power>
+  <accuracy>75</accuracy>
+  <critical>5</critical>
+  <cost>12% HP</cost>
+</skill>

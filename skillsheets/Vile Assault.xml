@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Vile Assault</name>
+  <effect>Deals heavy Phys damage to 1 foe with bonus damage to foes that are Knocked Down.</effect>
+  <power>700</power>
+  <accuracy>95</accuracy>
+  <critical>5</critical>
+  <cost>12% HP</cost>
+</skill>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Fire Break</name>
+  <effect>Nullifies 1 foe's Fire resistance (for 3 turns).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>15 SP</cost>
+</skill>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Assault Dive</name>
+  <effect>Deals light Phys damage to 1 foe.</effect>
+  <power>200</power>
+  <accuracy>90</accuracy>
+  <critical>20</critical>
+  <cost>10% HP</cost>
+</skill>

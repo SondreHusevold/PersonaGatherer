@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Twin Shot</name>
+  <effect>Deals light Phys damage to 1 foe twice.</effect>
+  <power>110</power>
+  <accuracy>90</accuracy>
+  <critical>10</critical>
+  <cost>10% HP</cost>
+</skill>

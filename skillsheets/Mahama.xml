@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Mahama</name>
+  <effect>Light: low chance of instant kill, all foes. (30% chance)</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>18 SP</cost>
+</skill>

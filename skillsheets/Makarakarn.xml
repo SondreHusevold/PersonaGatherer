@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Makarakarn</name>
+  <effect>Repels a single Magic attack (excluding Almighty attacks) for 1 ally.</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>36 SP</cost>
+</skill>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Skewer</name>
+  <effect>Deals light Phys damage to 1 foe.</effect>
+  <power>140</power>
+  <accuracy>85</accuracy>
+  <critical>20</critical>
+  <cost>5% HP</cost>
+</skill>

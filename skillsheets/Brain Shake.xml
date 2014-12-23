@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Brain Shake</name>
+  <effect>Deals light Phys damage to 1 foe with a chance of Exhaustion (up to 3x).</effect>
+  <power>160</power>
+  <accuracy>100</accuracy>
+  <critical>5</critical>
+  <cost>12% HP</cost>
+</skill>

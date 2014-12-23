@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Cell Breaker</name>
+  <effect>Deals light Phys damage to 1 foe with a chance of Enervation.</effect>
+  <power>160</power>
+  <accuracy>90</accuracy>
+  <critical>5</critical>
+  <cost>10% HP</cost>
+</skill>

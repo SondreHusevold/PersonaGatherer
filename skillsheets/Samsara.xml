@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Samsara</name>
+  <effect>Very high chance (60%) of instant death from the power of Light to all foes..</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>44 SP</cost>
+</skill>

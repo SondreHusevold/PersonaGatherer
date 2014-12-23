@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Aeon Rain</name>
+  <effect>Deals medium Phys damage to all foes (up to 3x).</effect>
+  <power>140</power>
+  <accuracy>75</accuracy>
+  <critical>5</critical>
+  <cost>18% HP</cost>
+</skill>

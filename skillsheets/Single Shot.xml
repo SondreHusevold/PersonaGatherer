@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Single Shot</name>
+  <effect>Deals light Phys damage to 1 foe.</effect>
+  <power>170</power>
+  <accuracy>90</accuracy>
+  <critical>25</critical>
+  <cost>9% HP</cost>
+</skill>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Mahamaon</name>
+  <effect>Light: high chance of instant kill, all foes. (40% chance)</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>34 SP</cost>
+</skill>

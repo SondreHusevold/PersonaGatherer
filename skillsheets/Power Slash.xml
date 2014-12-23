@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Power Slash</name>
+  <effect>Deals medium Phys damage to 1 foe.</effect>
+  <power>240</power>
+  <accuracy>80</accuracy>
+  <critical>25</critical>
+  <cost>14% HP</cost>
+</skill>

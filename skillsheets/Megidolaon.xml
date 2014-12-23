@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Megidolaon</name>
+  <effect>Deals severe Almighty damage to all foes.</effect>
+  <power>420</power>
+  <accuracy>95</accuracy>
+  <critical>-</critical>
+  <cost>60 SP</cost>
+</skill>

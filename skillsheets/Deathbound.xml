@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Deathbound</name>
+  <effect>Deals heavy Phys damage to all foes.</effect>
+  <power>290</power>
+  <accuracy>80</accuracy>
+  <critical>5</critical>
+  <cost>20% HP</cost>
+</skill>

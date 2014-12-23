@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Enervation</name>
+  <effect>Inflicting Enervation to 1 foe. (40% chance)</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>5 SP</cost>
+</skill>

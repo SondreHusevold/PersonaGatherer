@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Heaven's Blade</name>
+  <effect>Deals heavy Phys damage to 1 foe.</effect>
+  <power>460</power>
+  <accuracy>90</accuracy>
+  <critical>30</critical>
+  <cost>19% HP</cost>
+</skill>

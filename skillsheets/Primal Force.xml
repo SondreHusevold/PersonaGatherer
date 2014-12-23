@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Primal Force</name>
+  <effect>Deals severe Phys damage to 1 foe.</effect>
+  <power>2200</power>
+  <accuracy>90</accuracy>
+  <critical>25</critical>
+  <cost>20% HP</cost>
+</skill>

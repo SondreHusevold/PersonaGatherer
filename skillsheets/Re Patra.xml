@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<skill>
+  <name>Re Patra</name>
+  <effect>Recovers from Down and Dizzy (1 ally).</effect>
+  <power>-</power>
+  <accuracy>-</accuracy>
+  <critical>-</critical>
+  <cost>3 SP</cost>
+</skill>
