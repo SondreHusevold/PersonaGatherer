@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Navas Nebula</name>
+  <type>Physical</type>
   <effect>Deals medium Phys damage to all foes with a chance of Exhaustion.</effect>
   <power>200</power>
   <accuracy>80</accuracy>

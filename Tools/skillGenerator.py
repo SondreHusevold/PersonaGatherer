@@ -26,6 +26,7 @@ def createPhysicalXML(table_data, counter):
 
     skill = etree.Element('skill')
     skill.append(createElement('name', table_data[counter]))
+    skill.append(createElement('type', 'Physical'))
     skill.append(createElement('effect', table_data[counter+1]))
     skill.append(createElement('power', table_data[counter+2]))
     skill.append(createElement('accuracy', table_data[counter+3]))
@@ -36,10 +37,11 @@ def createPhysicalXML(table_data, counter):
     printToFile(table_data[counter], s)
 
 # Creates the magic skills
-def createMagicXML(table_data, counter):
+def createMagicXML(table_data, counter, skilltype):
 
     skill = etree.Element('skill')
     skill.append(createElement('name', table_data[counter]))
+    skill.append(createElement('type', skilltype))
     skill.append(createElement('effect', table_data[counter+1]))
     skill.append(createElement('power', table_data[counter+2]))
     skill.append(createElement('accuracy', table_data[counter+3]))
@@ -51,10 +53,11 @@ def createMagicXML(table_data, counter):
     printToFile(table_data[counter], s)
 
 # Creates the light and darkness skills
-def createLightDarkXML(table_data, counter):
+def createLightDarkXML(table_data, counter, skilltype):
 
     skill = etree.Element('skill')
     skill.append(createElement('name', table_data[counter]))
+    skill.append(createElement('type', skilltype))
     skill.append(createElement('effect', table_data[counter+1]))
     skill.append(createElement('power', '-'))
     skill.append(createElement('accuracy', '-'))
@@ -70,6 +73,7 @@ def createAlmightyXML(table_data, counter):
 
     skill = etree.Element('skill')
     skill.append(createElement('name', table_data[counter]))
+    skill.append(createElement('type', 'Almighty'))
     skill.append(createElement('effect', table_data[counter+1]))
 
     power = etree.Element('power')
@@ -92,10 +96,11 @@ def createAlmightyXML(table_data, counter):
     printToFile(table_data[counter], s)
 
 # Creates the recovery/status related skills
-def createRecoveryXML(table_data, counter):
+def createRecoveryXML(table_data, counter, skilltype):
 
     skill = etree.Element('skill')
     skill.append(createElement('name', table_data[counter]))
+    skill.append(createElement('type', skilltype))
     skill.append(createElement('effect', table_data[counter+1]))
     skill.append(createElement('power', '-'))
     skill.append(createElement('accuracy', '-'))
@@ -107,10 +112,11 @@ def createRecoveryXML(table_data, counter):
     printToFile(table_data[counter], s)
 
 # Creates the passive skills
-def createPassiveXML(table_data, counter):
+def createPassiveXML(table_data, counter, skilltype):
 
     skill = etree.Element('skill')
     skill.append(createElement('name', table_data[counter]))
+    skill.append(createElement('type', skilltype))
     skill.append(createElement('effect', table_data[counter+1]))
     skill.append(createElement('power', '-'))
     skill.append(createElement('accuracy', '-'))
@@ -156,10 +162,10 @@ def main():
     lightdarkSkills = table_data[470:522]
     almightySkills = table_data[522:567]
     recoverySkills = table_data[567:765]
-    passiveSkills = table_data[765:983]
+    passiveSkills = table_data[792:1011]
 
 
-    # Made extremely hard. Could and should be rewritten. 
+    # Made extremely hard. Could and should be rewritten. WILL BE BROKEN WHEN SOMEONE EDITS THE WIKI OR CHANGES THE WIKI STRUCTURE! 
     counter = 0
 
     for x in range(0, (len(physicalSkills)/6)):
@@ -169,13 +175,24 @@ def main():
     counter = 0
 
     for x in range(0, (len(magicSkills)/5)):
-        createMagicXML(magicSkills, counter)
+        if(counter < 35):
+            createMagicXML(magicSkills, counter, "Fire")
+        elif(counter >= 35 and counter < 70):
+            createMagicXML(magicSkills, counter, "Ice")
+        elif(counter >= 70 and counter < 105):
+            createMagicXML(magicSkills, counter, "Elec")
+        elif(counter >= 105):
+            createMagicXML(magicSkills, counter, "Wind")
+
         counter += 5
 
     counter = 0
 
     for x in range(0, (len(lightdarkSkills)/4)):
-        createLightDarkXML(lightdarkSkills, counter)
+        if(counter < 24):
+            createLightDarkXML(lightdarkSkills, counter, "Light")
+        else:
+            createLightDarkXML(lightdarkSkills, counter, "Dark")
         counter += 4
 
     counter = 0
@@ -187,13 +204,19 @@ def main():
     counter = 0
 
     for x in range(0, (len(recoverySkills)/3)):
-        createRecoveryXML(recoverySkills, counter)
+        if(counter < 42):
+            createRecoveryXML(recoverySkills, counter, "Ailment")
+        elif(counter >= 42 and  counter < 93):
+            createRecoveryXML(recoverySkills, counter, "Recovery")
+        elif(counter >= 93 and counter < 198):
+            createRecoveryXML(recoverySkills, counter, "Support")
         counter += 3
 
     counter = 0
 
     for x in range(0, (len(passiveSkills)/2)):
-        createPassiveXML(passiveSkills, counter)
+        skilltype = raw_input("Write type of " + passiveSkills[counter])
+        createPassiveXML(passiveSkills, counter, skilltype)
         counter += 2
 
 if __name__ == '__main__':

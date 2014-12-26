@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Mudoon</name>
-  <effect>Dark: high chance of instant kill, 1 foe. (60% chance)</effect>
+  <type>Dark</type>
+  <effect>Darkness: high chance of instant kill, 1 foe. (60% chance)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

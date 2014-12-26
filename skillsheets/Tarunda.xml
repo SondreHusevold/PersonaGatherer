@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Tarunda</name>
-  <effect>Decreases 1 foes's Attack for 3 turns.</effect>
+  <type>Support</type>
+  <effect>Decreases 1 foes's Attack for 3 turns. (Reduces one enemy's physical/offensive magic strength for three turns.)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

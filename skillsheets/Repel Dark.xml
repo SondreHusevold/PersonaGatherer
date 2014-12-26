@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Repel Dark</name>
-  <effect>Repels Darkness attacks (overwrites Resist and Null Dark).</effect>
+  <type>Dark</type>
+  <effect>Repels Darkness attacks. (Overwrites Resist/Null Dark)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Stagnant Air</name>
-  <effect>Increases susceptibility to ailments and Light/Dark spells (all).</effect>
+  <type>Almighty</type>
+  <effect>Increase all foe's susceptibility to ailments and Light/Dark skills.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Valiant Dance</name>
-  <effect>Inflict Rage to all foes. (30% chance)</effect>
+  <type>Ailment</type>
+  <effect>Enrages all foes (30% chance).</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

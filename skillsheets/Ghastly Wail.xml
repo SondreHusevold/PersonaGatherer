@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Ghastly Wail</name>
-  <effect>100% chance to instantly kill enemies with the Fear status.</effect>
+  <type>Dark</type>
+  <effect>Instantly kills foes who are fearful.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

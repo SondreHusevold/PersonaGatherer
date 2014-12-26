@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Evade Physical</name>
-  <effect>Triples evasion rate against Physical attacks.</effect>
+  <type>Physical</type>
+  <effect>Triples evasion rate against Phys attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

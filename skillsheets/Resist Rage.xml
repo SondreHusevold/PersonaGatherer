@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Resist Rage</name>
-  <effect>Lessens instances of succumbing to Rage attacks.</effect>
+  <type>Support</type>
+  <effect>Reduces chance of being Enraged.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

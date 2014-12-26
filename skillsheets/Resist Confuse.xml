@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Resist Confuse</name>
-  <effect>Lessens instances of succumbing to Confusion attacks.</effect>
+  <type>Support</type>
+  <effect>Reduces chance of being Confused.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

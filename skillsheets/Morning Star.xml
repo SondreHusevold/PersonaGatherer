@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Morning Star</name>
+  <type>Almighty</type>
   <effect>Deals massive Almighty damage to all foes.</effect>
   <power>440</power>
   <accuracy>95</accuracy>

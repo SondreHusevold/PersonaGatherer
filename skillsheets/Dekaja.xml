@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Dekaja</name>
-  <effect>Nullifies stat bonuses on all foes.</effect>
+  <type>Support</type>
+  <effect>Nullifies stat bonuses on all foes. (Offsets the effects of all enemies "-kaja" magic.)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

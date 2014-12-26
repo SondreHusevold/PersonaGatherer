@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Dodge Ice</name>
+  <type>Fire</type>
   <effect>Doubles evasion rate against Ice attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

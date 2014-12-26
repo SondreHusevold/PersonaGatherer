@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Ice Amp</name>
+  <type>Ice</type>
   <effect>Strengthens Ice attacks by 50%.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

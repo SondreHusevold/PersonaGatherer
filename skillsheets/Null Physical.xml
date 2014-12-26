@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Physical</name>
-  <effect>Becomes immune to Physical attacks (overwrites Resist Physical).</effect>
+  <type>Physical</type>
+  <effect>Become immune to Phys attacks. (Overwrites Resist Phys)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

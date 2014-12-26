@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Auto-Tarukaja</name>
-  <effect>Begin the battle with Tarukaja cast on yourself.</effect>
+  <type>Support</type>
+  <effect>Automatic Tarukaja at the start of battle.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

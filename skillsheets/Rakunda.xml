@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Rakunda</name>
-  <effect>Decreases 1 foe's Defense for 3 turns.</effect>
+  <type>Support</type>
+  <effect>Decreases 1 foe's Defense for 3 turns. (Reduces one enemy's physical and magic defensive power for three turns.)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

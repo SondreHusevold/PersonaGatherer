@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Maragion</name>
+  <type>Fire</type>
   <effect>Deals medium Fire damage to all foes.</effect>
   <power>200</power>
   <accuracy>95</accuracy>

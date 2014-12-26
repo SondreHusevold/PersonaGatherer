@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Niflheim</name>
+  <type>Ice</type>
   <effect>Deals severe Ice damage to 1 foe.</effect>
   <power>400</power>
   <accuracy>98</accuracy>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Double Fangs</name>
+  <type>Physical</type>
   <effect>Deals light Phys damage to 1 foe 2x.</effect>
   <power>80</power>
   <accuracy>90</accuracy>

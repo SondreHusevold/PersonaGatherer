@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Absorb Physical</name>
-  <effect>Absorbs damage from Physical attacks (overwrites Resist, Null and Repel Physical).</effect>
+  <type>Support</type>
+  <effect>Absorbs damage from Phys attacks. (Overwrites Resist/Null/Repel Phys)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

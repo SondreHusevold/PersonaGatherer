@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Endure</name>
-  <effect>Survive being knocked Unconscious once per battle with 1 HP remaining.</effect>
+  <type>Physical</type>
+  <effect>Restores 1 HP upon death 1x per battle.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

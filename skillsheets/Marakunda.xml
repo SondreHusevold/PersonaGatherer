@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Marakunda</name>
+  <type>Support</type>
   <effect>Decreases all foes' Defense for 3 turns.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

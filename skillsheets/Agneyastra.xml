@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Agneyastra</name>
-  <effect>Deals heavy Phys damage to all foes (up to 3x).</effect>
+  <type>Physical</type>
+  <effect>Deals heavy Phys damage to all foes 1x to 3x.</effect>
   <power>240</power>
   <accuracy>75</accuracy>
   <critical>5</critical>

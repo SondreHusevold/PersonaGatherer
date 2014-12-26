@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Arm Chopper</name>
+  <type>Physical</type>
   <effect>Deals light Phys damage to 1 foe with a chance of Fear.</effect>
   <power>90</power>
   <accuracy>90</accuracy>

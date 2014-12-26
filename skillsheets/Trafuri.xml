@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Trafuri</name>
-  <effect>Escape from a random encounter (guaranteed for normal battles).</effect>
+  <type>Support</type>
+  <effect>Enables escape from most battles. (100% chance to escape normal battles)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

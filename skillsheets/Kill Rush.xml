@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Kill Rush</name>
+  <type>Physical</type>
   <effect>Deals light Phys damage to 1 foe 1x to 3x.</effect>
   <power>100</power>
   <accuracy>90</accuracy>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Ice</name>
-  <effect>Becomes immune to Ice attacks (overwrites Resist Ice).</effect>
+  <type>Ice</type>
+  <effect>Becomes immune to Ice attacks. (Overwrites Resist Ice)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

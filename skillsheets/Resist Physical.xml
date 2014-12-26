@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Resist Physical</name>
-  <effect>Reduces damage from Physical attacks (voids weakness to Physical).</effect>
+  <type>Physical</type>
+  <effect>Reduces damage from Phys attacks. (Voids Phys weakness)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

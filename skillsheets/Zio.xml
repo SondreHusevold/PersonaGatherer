@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Zio</name>
+  <type>Elec</type>
   <effect>Deals light Elec damage to 1 foe.</effect>
   <power>80</power>
   <accuracy>98</accuracy>

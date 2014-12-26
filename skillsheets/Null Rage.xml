@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Rage</name>
+  <type>Support</type>
   <effect>Become immune to Rage attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

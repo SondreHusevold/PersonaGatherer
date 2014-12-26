@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Enduring Soul</name>
-  <effect>Survive being knocked Unconscious once per battle with all HP restored.</effect>
+  <type>Physical</type>
+  <effect>Restores full HP upon death 1x per battle.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

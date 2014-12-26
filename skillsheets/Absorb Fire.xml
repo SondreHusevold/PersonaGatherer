@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Absorb Fire</name>
-  <effect>Absorbs damage from Fire attacks (overwrites Resist, Null and Repel Fire).</effect>
+  <type>Fire</type>
+  <effect>Absorbs damage from Fire attacks. (Overwrites Resist/Null/Repel Fire)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

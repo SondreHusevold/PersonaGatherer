@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Maragidyne</name>
+  <type>Fire</type>
   <effect>Deals heavy Fire damage to all foes.</effect>
   <power>320</power>
   <accuracy>95</accuracy>

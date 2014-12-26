@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Swift Strike</name>
-  <effect>Deals light Phys damage to all foes (up to 2x).</effect>
+  <type>Physical</type>
+  <effect>Deals light Phys damage to all foes 1x to 2x.</effect>
   <power>130</power>
   <accuracy>80</accuracy>
   <critical>5</critical>

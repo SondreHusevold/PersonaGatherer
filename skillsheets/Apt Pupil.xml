@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Apt Pupil</name>
-  <effect>Doubles the chance of delivering a Critical Hit.</effect>
+  <type>Physical</type>
+  <effect>Increases user's Critical Rate.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

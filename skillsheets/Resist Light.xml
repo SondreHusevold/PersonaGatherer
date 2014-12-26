@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Resist Light</name>
-  <effect>Reduces chance of instant death from Light attacks (voids weakness to Light).</effect>
+  <type>Dark</type>
+  <effect>Reduces chance of instant death from Light attacks. (Voids Light weakness)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

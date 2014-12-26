@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Regenerate 2</name>
+  <type>Recovery</type>
   <effect>Recovers 4% of max HP each turn in battle.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

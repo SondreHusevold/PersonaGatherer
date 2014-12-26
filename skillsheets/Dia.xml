@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Dia</name>
+  <type>Recovery</type>
   <effect>Slightly restores 1 ally's HP.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

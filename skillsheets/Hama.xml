@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Hama</name>
+  <type>Light</type>
   <effect>Light: low chance of instant kill, 1 foe. (40% chance)</effect>
   <power>-</power>
   <accuracy>-</accuracy>

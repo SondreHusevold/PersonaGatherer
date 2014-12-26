@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Mediarahan</name>
+  <type>Recovery</type>
   <effect>Fully restores party's HP.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

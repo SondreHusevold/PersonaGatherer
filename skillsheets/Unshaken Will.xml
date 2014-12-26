@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Unshaken Will</name>
-  <effect>Becomes immune to all mental ailments.</effect>
+  <type>Support</type>
+  <effect>Protects user from Rage/Fear/Silence/Enervation/Confusion.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

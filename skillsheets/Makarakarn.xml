@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Makarakarn</name>
-  <effect>Repels a single Magic attack (excluding Almighty attacks) for 1 ally.</effect>
+  <type>Support</type>
+  <effect>Barrier that reflects magic dmg once. (1 ally; excludes Almighty attacks)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

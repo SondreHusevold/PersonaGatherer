@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Vorpal Blade</name>
+  <type>Physical</type>
   <effect>Deals heavy Phys damage to all foes.</effect>
   <power>400</power>
   <accuracy>80</accuracy>

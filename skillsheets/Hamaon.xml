@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Hamaon</name>
+  <type>Light</type>
   <effect>Light: high chance of instant kill, 1 foe. (60% chance)</effect>
   <power>-</power>
   <accuracy>-</accuracy>

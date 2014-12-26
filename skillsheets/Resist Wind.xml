@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Resist Wind</name>
-  <effect>Reduces damage from Wind attacks (voids weakness to Wind).</effect>
+  <type>Elec</type>
+  <effect>Reduces damage from Wind attacks. (Voids Wind weakness)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

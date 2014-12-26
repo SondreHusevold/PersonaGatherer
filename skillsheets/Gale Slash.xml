@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Gale Slash</name>
+  <type>Physical</type>
   <effect>Deals light Phys damage to all foes.</effect>
   <power>160</power>
   <accuracy>85</accuracy>

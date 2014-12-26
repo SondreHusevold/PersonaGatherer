@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Poisma</name>
-  <effect>Poisons 1 foe. (40% chance)</effect>
+  <type>Ailment</type>
+  <effect>Poisons 1 foe (40% chance). (-5% HP/turn, -50% STR)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

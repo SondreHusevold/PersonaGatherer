@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Matarunda</name>
+  <type>Support</type>
   <effect>Decreases all foes' Attack for 3 turns.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

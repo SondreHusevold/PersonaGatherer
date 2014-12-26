@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>God's Judgment</name>
-  <effect>Decreases 1 foe's HP by 50% from the power of Light.</effect>
+  <type>Light</type>
+  <effect>Light: chance of reducing foes to 1/2 HP.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

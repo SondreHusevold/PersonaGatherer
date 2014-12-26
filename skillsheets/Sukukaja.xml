@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Sukukaja</name>
+  <type>Support</type>
   <effect>Increases 1 ally's Hit/Evasion rates for 3 turns.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

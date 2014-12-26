@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Tetra Break</name>
-  <effect>Negates Tetrakarn from all enemies.</effect>
+  <type>Support</type>
+  <effect>Negates all foes' Tetrakarn.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Pralaya</name>
-  <effect>Deals severe Phys damage to all foes with a high chance of instant death (50% chance).</effect>
+  <type>Physical</type>
+  <effect>Deals severe Phys damage to all foes with a high chance of instant kills. (50% chance)</effect>
   <power>2200</power>
   <accuracy>80</accuracy>
   <critical>5</critical>

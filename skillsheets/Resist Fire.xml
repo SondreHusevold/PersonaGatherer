@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Resist Fire</name>
-  <effect>Reduces damage from Fire attacks (voids weakness to Fire).</effect>
+  <type>Ice</type>
+  <effect>Reduces damage from Fire attacks. (Voids Fire weakness)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

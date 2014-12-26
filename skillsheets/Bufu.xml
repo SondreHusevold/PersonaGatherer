@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Bufu</name>
+  <type>Ice</type>
   <effect>Deals light Ice damage to 1 foe.</effect>
   <power>80</power>
   <accuracy>98</accuracy>

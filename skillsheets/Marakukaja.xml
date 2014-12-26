@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Marakukaja</name>
+  <type>Support</type>
   <effect>Increases Defense for 3 turns (party).</effect>
   <power>-</power>
   <accuracy>-</accuracy>

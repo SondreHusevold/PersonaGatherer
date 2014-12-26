@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Auto-Sukukaja</name>
-  <effect>Begin the battle with Sukukaja cast on yourself.</effect>
+  <type>Support</type>
+  <effect>Automatic Sukukaja at the start of battle.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

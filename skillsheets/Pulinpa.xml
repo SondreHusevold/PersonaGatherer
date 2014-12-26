@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Pulinpa</name>
-  <effect>Confuses 1 foe. (40% chance)</effect>
+  <type>Ailment</type>
+  <effect>Confuses* 1 foe (40% chance). (May attack ally, lose turn, or waste 3% money)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

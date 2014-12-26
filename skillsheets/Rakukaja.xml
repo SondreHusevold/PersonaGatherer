@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Rakukaja</name>
-  <effect>Increases 1 ally's Defense for 3 turns.</effect>
+  <type>Support</type>
+  <effect>Increases 1 ally's Defense for 3 turns. (Raises one ally's physical/magical defensive strength for three turns.)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

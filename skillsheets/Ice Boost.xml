@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Ice Boost</name>
+  <type>Ice</type>
   <effect>Strengthens Ice attacks by 25%.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Alertness</name>
-  <effect>Decreases chance of enemy attacking first.</effect>
+  <type>Support</type>
+  <effect>Lowers odds of being taken by surprise. (Decreases enemy advantage)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

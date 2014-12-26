@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Poison Mist</name>
-  <effect>Poisons all foes. (30% chance)</effect>
+  <type>Ailment</type>
+  <effect>Poisons all foes (30% chance).</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

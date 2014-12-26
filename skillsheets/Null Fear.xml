@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Fear</name>
+  <type>Support</type>
   <effect>Become immune to Fear attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

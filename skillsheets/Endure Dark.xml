@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Endure Dark</name>
+  <type>Dark</type>
   <effect>Automatically survive instant death 1 time from a Darkness attack with 1 HP.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>High Counter</name>
-  <effect>20% chance of repelling Physical attacks when not Knocked Down.</effect>
+  <type>Physical</type>
+  <effect>20% chance of reflecting Phys attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

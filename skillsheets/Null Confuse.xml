@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Confuse</name>
+  <type>Support</type>
   <effect>Become immune to Confusion attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

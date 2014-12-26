@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Rainy Death</name>
+  <type>Physical</type>
   <effect>Deals heavy Phys damage to 1 foe.</effect>
   <power>350</power>
   <accuracy>85</accuracy>

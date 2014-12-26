@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Energy Shower</name>
+  <type>Recovery</type>
   <effect>Cures Exhaustion and Enervation (party).</effect>
   <power>-</power>
   <accuracy>-</accuracy>

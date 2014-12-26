@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Light</name>
-  <effect>Becomes immune to Light attacks (overwrites Resist Light).</effect>
+  <type>Light</type>
+  <effect>Becomes immune to Light attacks. (Overwrites Resist Light)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Megidola</name>
+  <type>Almighty</type>
   <effect>Deals heavy Almighty damage to all foes.</effect>
   <power>360</power>
   <accuracy>95</accuracy>

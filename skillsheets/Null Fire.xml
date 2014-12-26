@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Fire</name>
-  <effect>Becomes immune to Fire attacks (overwrites Resist Fire).</effect>
+  <type>Fire</type>
+  <effect>Becomes immune to Fire attacks. (Overwrites Resist Fire)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

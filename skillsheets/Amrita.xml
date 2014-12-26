@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Amrita</name>
+  <type>Recovery</type>
   <effect>Cures all ailments except Down and Death (party).</effect>
   <power>-</power>
   <accuracy>-</accuracy>

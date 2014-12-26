@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Survive Dark</name>
+  <type>Dark</type>
   <effect>50% chance of surviving instant death 1 time from a Darkness attack with 1 HP.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

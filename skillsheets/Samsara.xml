@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Samsara</name>
-  <effect>Very high chance (60%) of instant death from the power of Light to all foes..</effect>
+  <type>Light</type>
+  <effect>Light: very high chance of instant kill, all foes. (60% chance)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

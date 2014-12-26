@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Repel Physical</name>
-  <effect>Repels Physical attacks (overwrites Resist and Null Physical).</effect>
+  <type>Physical</type>
+  <effect>Repels Phys attacks. (Overwrites Resist/Null Phys)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

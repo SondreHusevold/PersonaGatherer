@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Ali Dance</name>
-  <effect>Halves the hit rate of all enemies.</effect>
+  <type>Support</type>
+  <effect>The Hit rate of an attacking unit is reduced by half.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

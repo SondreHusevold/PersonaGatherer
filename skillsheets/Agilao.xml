@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Agilao</name>
+  <type>Fire</type>
   <effect>Deals medium Fire damage to 1 foe.</effect>
   <power>200</power>
   <accuracy>98</accuracy>

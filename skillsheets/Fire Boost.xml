@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Fire Boost</name>
+  <type>Fire</type>
   <effect>Strengthens Fire attacks by 25%.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

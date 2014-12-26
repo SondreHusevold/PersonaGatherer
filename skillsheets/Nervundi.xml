@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Nervundi</name>
+  <type>Recovery</type>
   <effect>Cures Exhaustion and Enervation (1 ally).</effect>
   <power>-</power>
   <accuracy>-</accuracy>

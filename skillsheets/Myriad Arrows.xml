@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Myriad Arrows</name>
-  <effect>Deals heavy Phys damage to all foes (up to 3x).</effect>
+  <type>Physical</type>
+  <effect>Deals heavy Phys damage to all foes 1x to 3x.</effect>
   <power>150</power>
   <accuracy>85</accuracy>
   <critical>5</critical>

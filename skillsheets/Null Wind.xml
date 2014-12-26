@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Wind</name>
-  <effect>Becomes immune to Wind attacks (overwrites Resist Wind).</effect>
+  <type>Wind</type>
+  <effect>Becomes immune to Wind attacks. (Overwrites Resist Wind)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

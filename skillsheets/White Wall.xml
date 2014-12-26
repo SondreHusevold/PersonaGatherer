@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>White Wall</name>
-  <effect>Increases 1 ally's Ice resistance (for 3 turns).</effect>
+  <type>Support</type>
+  <effect>Add Ice resistance to 1 ally (for 3 turns).</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

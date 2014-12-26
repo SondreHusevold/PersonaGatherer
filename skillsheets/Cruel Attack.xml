@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Cruel Attack</name>
-  <effect>Deals medium Phys damage to 1 foe with bonus damage to foes that are Knocked Down.</effect>
+  <type>Physical</type>
+  <effect>Medium Phys dmg, 1 foe. Bonus damage to foes that are knocked down.</effect>
   <power>240</power>
   <accuracy>90</accuracy>
   <critical>35</critical>

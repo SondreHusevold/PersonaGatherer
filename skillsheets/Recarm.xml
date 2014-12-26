@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Recarm</name>
+  <type>Recovery</type>
   <effect>Revives 1 ally with 50% HP.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

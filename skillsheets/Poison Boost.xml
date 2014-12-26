@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Poison Boost</name>
+  <type>Ailment</type>
   <effect>Increases odds of inflicting Poison (1.5x).</effect>
   <power>-</power>
   <accuracy>-</accuracy>

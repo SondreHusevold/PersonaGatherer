@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Atom Smasher</name>
-  <effect>Deals medium Phys damage to all foes with a chance of Fear (up to 2x).</effect>
+  <type>Physical</type>
+  <effect>Deals medium Phys damage to all foes 1x to 2x with a chance of Fear.</effect>
   <power>100</power>
   <accuracy>80</accuracy>
   <critical>5</critical>

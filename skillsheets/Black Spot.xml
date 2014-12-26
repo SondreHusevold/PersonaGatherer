@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Black Spot</name>
+  <type>Physical</type>
   <effect>Deals medium Phys damage to 1 foe.</effect>
   <power>260</power>
   <accuracy>80</accuracy>

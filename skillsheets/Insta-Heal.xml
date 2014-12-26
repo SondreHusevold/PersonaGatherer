@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Insta-Heal</name>
+  <type>Recovery</type>
   <effect>Recovers from ailments in 1 turn.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

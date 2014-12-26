@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Repel Wind</name>
-  <effect>Repels Wind attacks (overwrites Resist and Null Wind).</effect>
+  <type>Wind</type>
+  <effect>Repels Wind attacks. (Overwrites Resist/Null Wind)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

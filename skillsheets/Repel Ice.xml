@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Repel Ice</name>
-  <effect>Repels Ice attacks (overwrites Resist and Null Ice).</effect>
+  <type>Ice</type>
+  <effect>Repels Ice attacks. (Overwrites Resist/Null Ice)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

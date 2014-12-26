@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Revolution</name>
+  <type>Support</type>
   <effect>Greatly increases Critical rate for 3 turns (all).</effect>
   <power>-</power>
   <accuracy>-</accuracy>

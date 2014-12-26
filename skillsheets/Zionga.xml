@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Zionga</name>
+  <type>Elec</type>
   <effect>Deals medium Elec damage to 1 foe.</effect>
   <power>200</power>
   <accuracy>98</accuracy>

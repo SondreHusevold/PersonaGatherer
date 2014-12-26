@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Mabufu</name>
+  <type>Ice</type>
   <effect>Deals light Ice damage to all foes.</effect>
   <power>80</power>
   <accuracy>95</accuracy>

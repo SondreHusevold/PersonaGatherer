@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Muzzle Shot</name>
+  <type>Physical</type>
   <effect>Deals light Phys damage to 1 foe with a chance of Silence.</effect>
   <power>120</power>
   <accuracy>90</accuracy>

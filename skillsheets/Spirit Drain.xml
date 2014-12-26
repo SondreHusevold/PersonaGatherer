@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Spirit Drain</name>
+  <type>Almighty</type>
   <effect>Drains 30 SP from 1 foe.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

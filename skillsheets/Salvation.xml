@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Salvation</name>
+  <type>Recovery</type>
   <effect>Fully restores party's HP. Cures ailments.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

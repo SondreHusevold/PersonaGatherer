@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Torrent Shot</name>
-  <effect>Deals medium Phys damage to 1 foe 2x-3x.</effect>
+  <type>Physical</type>
+  <effect>Deals medium Phys damage to 1 foe 2x to 3x.</effect>
   <power>90</power>
   <accuracy>90</accuracy>
   <critical>8</critical>

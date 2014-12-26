@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Mamudoon</name>
-  <effect>Dark: high chance of instant kill, all foes. (40% chance)</effect>
+  <type>Dark</type>
+  <effect>Darkness: high chance of instant kill, all foes. (40% chance)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

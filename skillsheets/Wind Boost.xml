@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Wind Boost</name>
+  <type>Wind</type>
   <effect>Strengthens Wind attacks by 25%.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

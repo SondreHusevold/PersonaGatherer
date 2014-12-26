@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Absorb Ice</name>
-  <effect>Absorbs damage from Ice attacks (overwrites Resist, Null and Repel Ice).</effect>
+  <type>Ice</type>
+  <effect>Absorbs damage from Ice attacks. (Overwrites Resist/Null/Repel Ice)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

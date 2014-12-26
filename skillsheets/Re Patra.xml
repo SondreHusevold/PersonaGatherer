@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Re Patra</name>
-  <effect>Recovers from Down and Dizzy (1 ally).</effect>
+  <type>Recovery</type>
+  <effect>Recovers 1 ally from Knockdown or Dizzy status.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

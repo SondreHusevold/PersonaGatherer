@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Spell Master</name>
-  <effect>Halves the SP cost for all magic skills.</effect>
+  <type>Recovery</type>
+  <effect>Halves SP cost for magic skills.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

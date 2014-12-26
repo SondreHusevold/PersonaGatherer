@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Power Charge</name>
-  <effect>The next Phys or Almighty Phys attack is increased by 2.5x.</effect>
+  <type>Support</type>
+  <effect>Next physical attack, physical skill, or Almighty physical attack will be 250% greater in power.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Endure Light</name>
+  <type>Light</type>
   <effect>Automatically survive instant death 1 time from a Light attack with 1 HP.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Angelic Grace</name>
-  <effect>Doubles Magic Evasion (excludes Light, Dark, Ailment and Almighty).</effect>
+  <type>Recovery</type>
+  <effect>Doubles evasion rate against all attacks but Light/Darkness/Almighty.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

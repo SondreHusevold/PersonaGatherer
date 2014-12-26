@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Balzac</name>
-  <effect>Inflict Rage to 1 foe. (40% chance)</effect>
+  <type>Ailment</type>
+  <effect>Enrages 1 foe (40% chance). (Doubles STR, uncontrollable, auto attacks with weapon)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

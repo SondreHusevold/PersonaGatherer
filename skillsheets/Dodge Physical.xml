@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Dodge Physical</name>
-  <effect>Doubles evasion rate against Physical attacks.</effect>
+  <type>Physical</type>
+  <effect>Doubles evasion rate against Phys attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Elec Amp</name>
+  <type>Elec</type>
   <effect>Strengthens Elec attacks by 50%.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

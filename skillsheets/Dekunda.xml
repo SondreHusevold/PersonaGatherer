@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Dekunda</name>
-  <effect>Nullifies stat penalties on party.</effect>
+  <type>Support</type>
+  <effect>Nullifies stat penalties on party. (Offsets the effects of "-nda" magic for all allies.)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

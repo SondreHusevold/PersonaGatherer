@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Resist Fear</name>
+  <type>Support</type>
   <effect>Lessens instances of succumbing to Fear attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Dark</name>
-  <effect>Becomes immune to Darkness attacks (overwrites Resist Dark).</effect>
+  <type>Dark</type>
+  <effect>Becomes immune to Darkness attacks. (Overwrites Resist Dark)</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Evade Elec</name>
+  <type>Wind</type>
   <effect>Triples evasion rate against Elec attacks.</effect>
   <power>-</power>
   <accuracy>-</accuracy>

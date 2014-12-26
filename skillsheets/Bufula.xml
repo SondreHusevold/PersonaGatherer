@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Bufula</name>
+  <type>Ice</type>
   <effect>Deals medium Ice damage to 1 foe.</effect>
   <power>200</power>
   <accuracy>98</accuracy>

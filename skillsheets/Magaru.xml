@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Magaru</name>
+  <type>Wind</type>
   <effect>Deals light Wind damage to all foes.</effect>
   <power>80</power>
   <accuracy>95</accuracy>

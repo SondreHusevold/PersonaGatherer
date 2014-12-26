@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Resist Enervate</name>
-  <effect>Lessens instances of succumbing to Enervation attacks.</effect>
+  <type>Support</type>
+  <effect>Reduces chance of being Enervated.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Null Dizzy</name>
-  <effect>Cannot become Dizzy after being Knocked Down.</effect>
+  <type>Support</type>
+  <effect>Cannot become Dizzy after being knocked down.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>

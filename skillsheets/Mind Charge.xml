@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <skill>
   <name>Mind Charge</name>
-  <effect>The next Fire, Ice, Elec, Wind, or Almighty attack is increased by 2.5x.</effect>
+  <type>Support</type>
+  <effect>Next Fire, Ice, Elec, Wind, or Almighty magical attack will be 250% greater in power.</effect>
   <power>-</power>
   <accuracy>-</accuracy>
   <critical>-</critical>
